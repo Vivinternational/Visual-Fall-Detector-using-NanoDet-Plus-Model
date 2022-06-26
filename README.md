@@ -1,0 +1,2 @@
+# Visual-Fall-Detector-using-NanoDet-Plus-Model
+This repository is created as part of the Master Thesis to obtain the academic degree Master of Science in Engineering (M. Sc. ) at the University of Applied Sciences Kufstein Tirol Bildungs GmbH. It contains the deep learning model for fall detection built with the use of the NanoDet-Plus model provided by Lyu on the following GitHub site: https://github.com/RangiLyu/nanodet
