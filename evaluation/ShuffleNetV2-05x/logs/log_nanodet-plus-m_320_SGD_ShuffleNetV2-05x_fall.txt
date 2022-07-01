@@ -1,0 +1,1231 @@
+[NanoDet][06-11 16:34:58]INFO: Setting up data...
+[NanoDet][06-11 16:34:58]INFO: Creating model...
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch1.2.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 24, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch1.3.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch1.3.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch1.3.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch1.3.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.0.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 24, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.1.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.1.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.1.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.1.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.3.weight, required shapetorch.Size([24, 1, 3, 3]), loaded shapetorch.Size([58, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.4.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.4.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.4.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.4.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.5.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.6.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.6.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.6.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.0.branch2.6.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.0.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.1.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.1.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.1.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.1.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.3.weight, required shapetorch.Size([24, 1, 3, 3]), loaded shapetorch.Size([58, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.4.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.4.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.4.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.4.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.5.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.6.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.6.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.6.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.1.branch2.6.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.0.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.1.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.1.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.1.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.1.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.3.weight, required shapetorch.Size([24, 1, 3, 3]), loaded shapetorch.Size([58, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.4.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.4.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.4.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.4.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.5.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.6.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.6.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.6.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.2.branch2.6.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.0.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.1.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.1.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.1.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.1.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.3.weight, required shapetorch.Size([24, 1, 3, 3]), loaded shapetorch.Size([58, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.4.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.4.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.4.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.4.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.5.weight, required shapetorch.Size([24, 24, 1, 1]), loaded shapetorch.Size([58, 58, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.6.weight, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.6.bias, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.6.running_mean, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage2.3.branch2.6.running_var, required shapetorch.Size([24]), loaded shapetorch.Size([58]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.0.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.2.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.3.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.3.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.3.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch1.3.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.0.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.1.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.2.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.3.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.4.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.5.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.6.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.0.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.1.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.1.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.1.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.1.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.3.weight, required shapetorch.Size([48, 1, 3, 3]), loaded shapetorch.Size([116, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.4.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.4.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.4.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.4.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.5.weight, required shapetorch.Size([48, 48, 1, 1]), loaded shapetorch.Size([116, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.6.weight, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.6.bias, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.6.running_mean, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage3.7.branch2.6.running_var, required shapetorch.Size([48]), loaded shapetorch.Size([116]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.0.weight, required shapetorch.Size([96, 1, 3, 3]), loaded shapetorch.Size([232, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.1.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.1.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.1.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.1.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.2.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.3.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.3.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.3.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch1.3.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.0.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.1.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.1.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.1.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.1.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.3.weight, required shapetorch.Size([96, 1, 3, 3]), loaded shapetorch.Size([232, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.4.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.4.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.4.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.4.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.5.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.6.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.6.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.6.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.0.branch2.6.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.0.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.1.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.1.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.1.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.1.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.3.weight, required shapetorch.Size([96, 1, 3, 3]), loaded shapetorch.Size([232, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.4.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.4.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.4.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.4.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.5.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.6.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.6.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.6.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.1.branch2.6.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.0.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.1.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.1.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.1.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.1.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.3.weight, required shapetorch.Size([96, 1, 3, 3]), loaded shapetorch.Size([232, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.4.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.4.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.4.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.4.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.5.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.6.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.6.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.6.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.2.branch2.6.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.0.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.1.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.1.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.1.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.1.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.3.weight, required shapetorch.Size([96, 1, 3, 3]), loaded shapetorch.Size([232, 1, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.4.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.4.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.4.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.4.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.5.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([232, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.6.weight, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.6.bias, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.6.running_mean, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter backbone.stage4.3.branch2.6.running_var, required shapetorch.Size([96]), loaded shapetorch.Size([232]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter fpn.reduce_layers.0.conv.weight, required shapetorch.Size([96, 48, 1, 1]), loaded shapetorch.Size([96, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter fpn.reduce_layers.1.conv.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([96, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter fpn.reduce_layers.2.conv.weight, required shapetorch.Size([96, 192, 1, 1]), loaded shapetorch.Size([96, 464, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_fpn.reduce_layers.0.conv.weight, required shapetorch.Size([96, 48, 1, 1]), loaded shapetorch.Size([96, 116, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_fpn.reduce_layers.1.conv.weight, required shapetorch.Size([96, 96, 1, 1]), loaded shapetorch.Size([96, 232, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_fpn.reduce_layers.2.conv.weight, required shapetorch.Size([96, 192, 1, 1]), loaded shapetorch.Size([96, 464, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.distribution_project.project, required shapetorch.Size([3]), loaded shapetorch.Size([8]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.0.weight, required shapetorch.Size([14, 96, 1, 1]), loaded shapetorch.Size([112, 96, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.0.bias, required shapetorch.Size([14]), loaded shapetorch.Size([112]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.1.weight, required shapetorch.Size([14, 96, 1, 1]), loaded shapetorch.Size([112, 96, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.1.bias, required shapetorch.Size([14]), loaded shapetorch.Size([112]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.2.weight, required shapetorch.Size([14, 96, 1, 1]), loaded shapetorch.Size([112, 96, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.2.bias, required shapetorch.Size([14]), loaded shapetorch.Size([112]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.3.weight, required shapetorch.Size([14, 96, 1, 1]), loaded shapetorch.Size([112, 96, 1, 1]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter head.gfl_cls.3.bias, required shapetorch.Size([14]), loaded shapetorch.Size([112]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_head.gfl_cls.weight, required shapetorch.Size([2, 192, 3, 3]), loaded shapetorch.Size([80, 192, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_head.gfl_cls.bias, required shapetorch.Size([2]), loaded shapetorch.Size([80]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_head.gfl_reg.weight, required shapetorch.Size([12, 192, 3, 3]), loaded shapetorch.Size([32, 192, 3, 3]).
+[NanoDet][06-11 16:35:01]INFO: Skip loading parameter aux_head.gfl_reg.bias, required shapetorch.Size([12]), loaded shapetorch.Size([32]).
+[NanoDet][06-11 16:35:01]INFO: Loaded model weight from /content/drive/MyDrive/MasterThesis/NanoDet/nanodet-plus-m_320_checkpoint.ckpt
+[NanoDet][06-11 16:35:01]INFO: Weight Averaging is enabled
+[NanoDet][06-11 16:35:09]INFO: Train|Epoch1/300|Iter0(0)| lr:1.40e-02| loss_qfl:0.4044| loss_bbox:1.2833| loss_dfl:0.2753| aux_loss_qfl:0.4053| aux_loss_bbox:1.2851| aux_loss_dfl:0.2757| 
+[NanoDet][06-11 16:35:37]INFO: Train|Epoch1/300|Iter35(35)| lr:2.87e-02| loss_qfl:0.2309| loss_bbox:0.9714| loss_dfl:0.2001| aux_loss_qfl:0.2112| aux_loss_bbox:0.9044| aux_loss_dfl:0.1884| 
+[NanoDet][06-11 16:36:08]INFO: Train|Epoch2/300|Iter70(31)| lr:4.34e-02| loss_qfl:0.2365| loss_bbox:0.7537| loss_dfl:0.1731| aux_loss_qfl:0.2606| aux_loss_bbox:0.6636| aux_loss_dfl:0.1546| 
+[NanoDet][06-11 16:36:39]INFO: Train|Epoch3/300|Iter105(27)| lr:5.81e-02| loss_qfl:0.1937| loss_bbox:0.6380| loss_dfl:0.1513| aux_loss_qfl:0.1931| aux_loss_bbox:0.5909| aux_loss_dfl:0.1461| 
+[NanoDet][06-11 16:37:10]INFO: Train|Epoch4/300|Iter140(23)| lr:7.28e-02| loss_qfl:0.1955| loss_bbox:0.6077| loss_dfl:0.1426| aux_loss_qfl:0.2003| aux_loss_bbox:0.6240| aux_loss_dfl:0.1465| 
+[NanoDet][06-11 16:37:41]INFO: Train|Epoch5/300|Iter175(19)| lr:8.75e-02| loss_qfl:0.1625| loss_bbox:0.5829| loss_dfl:0.1407| aux_loss_qfl:0.1603| aux_loss_bbox:0.5871| aux_loss_dfl:0.1394| 
+[NanoDet][06-11 16:38:13]INFO: Train|Epoch6/300|Iter210(15)| lr:1.02e-01| loss_qfl:0.1859| loss_bbox:0.5541| loss_dfl:0.1399| aux_loss_qfl:0.1925| aux_loss_bbox:0.5362| aux_loss_dfl:0.1382| 
+[NanoDet][06-11 16:38:44]INFO: Train|Epoch7/300|Iter245(11)| lr:1.17e-01| loss_qfl:0.1892| loss_bbox:0.5332| loss_dfl:0.1400| aux_loss_qfl:0.1696| aux_loss_bbox:0.5410| aux_loss_dfl:0.1400| 
+[NanoDet][06-11 16:39:15]INFO: Train|Epoch8/300|Iter280(7)| lr:1.32e-01| loss_qfl:0.1489| loss_bbox:0.5396| loss_dfl:0.1350| aux_loss_qfl:0.1590| aux_loss_bbox:0.5412| aux_loss_dfl:0.1363| 
+[NanoDet][06-11 16:39:46]INFO: Train|Epoch9/300|Iter315(3)| lr:1.40e-01| loss_qfl:0.1623| loss_bbox:0.5554| loss_dfl:0.1357| aux_loss_qfl:0.1570| aux_loss_bbox:0.5537| aux_loss_dfl:0.1368| 
+[NanoDet][06-11 16:40:13]INFO: Train|Epoch9/300|Iter350(38)| lr:1.40e-01| loss_qfl:0.1809| loss_bbox:0.5660| loss_dfl:0.1398| aux_loss_qfl:0.1649| aux_loss_bbox:0.5818| aux_loss_dfl:0.1405| 
+[NanoDet][06-11 16:40:44]INFO: Train|Epoch10/300|Iter385(34)| lr:1.40e-01| loss_qfl:0.1369| loss_bbox:0.5620| loss_dfl:0.1428| aux_loss_qfl:0.1404| aux_loss_bbox:0.5535| aux_loss_dfl:0.1418| 
+[NanoDet][06-11 16:40:51]INFO: Val|Epoch10/300|Iter390(0)| lr:1.40e-01| loss_qfl:0.1414| loss_bbox:0.5164| loss_dfl:0.1430| aux_loss_qfl:0.1248| aux_loss_bbox:0.4816| aux_loss_dfl:0.1411| 
+[NanoDet][06-11 16:40:58]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.492
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.905
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.491
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.454
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.544
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.604
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.624
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.624
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.630
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.617
+
+[NanoDet][06-11 16:40:58]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 94.1   | 55.0  | adl     | 87.0   | 43.4  |
+[NanoDet][06-11 16:40:58]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 16:40:58]INFO: Val_metrics: {'mAP': 0.49187331359731307, 'AP_50': 0.9053562600866206, 'AP_75': 0.4907276517004964, 'AP_small': 0.0, 'AP_m': 0.45353960941926347, 'AP_l': 0.54387439088587}
+[NanoDet][06-11 16:41:27]INFO: Train|Epoch11/300|Iter420(30)| lr:1.40e-01| loss_qfl:0.1488| loss_bbox:0.5575| loss_dfl:0.1376| aux_loss_qfl:0.1445| aux_loss_bbox:0.5407| aux_loss_dfl:0.1364| 
+[NanoDet][06-11 16:41:59]INFO: Train|Epoch12/300|Iter455(26)| lr:1.40e-01| loss_qfl:0.1399| loss_bbox:0.5460| loss_dfl:0.1382| aux_loss_qfl:0.1309| aux_loss_bbox:0.5508| aux_loss_dfl:0.1380| 
+[NanoDet][06-11 16:42:30]INFO: Train|Epoch13/300|Iter490(22)| lr:1.40e-01| loss_qfl:0.1467| loss_bbox:0.5201| loss_dfl:0.1327| aux_loss_qfl:0.1396| aux_loss_bbox:0.5141| aux_loss_dfl:0.1321| 
+[NanoDet][06-11 16:43:01]INFO: Train|Epoch14/300|Iter525(18)| lr:1.40e-01| loss_qfl:0.1251| loss_bbox:0.5276| loss_dfl:0.1329| aux_loss_qfl:0.1223| aux_loss_bbox:0.5020| aux_loss_dfl:0.1325| 
+[NanoDet][06-11 16:43:32]INFO: Train|Epoch15/300|Iter560(14)| lr:1.40e-01| loss_qfl:0.1463| loss_bbox:0.4949| loss_dfl:0.1329| aux_loss_qfl:0.1318| aux_loss_bbox:0.5026| aux_loss_dfl:0.1321| 
+[NanoDet][06-11 16:44:03]INFO: Train|Epoch16/300|Iter595(10)| lr:1.40e-01| loss_qfl:0.1526| loss_bbox:0.4978| loss_dfl:0.1311| aux_loss_qfl:0.1326| aux_loss_bbox:0.4837| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 16:44:34]INFO: Train|Epoch17/300|Iter630(6)| lr:1.40e-01| loss_qfl:0.1228| loss_bbox:0.5009| loss_dfl:0.1340| aux_loss_qfl:0.1274| aux_loss_bbox:0.5007| aux_loss_dfl:0.1336| 
+[NanoDet][06-11 16:45:06]INFO: Train|Epoch18/300|Iter665(2)| lr:1.40e-01| loss_qfl:0.1009| loss_bbox:0.4875| loss_dfl:0.1333| aux_loss_qfl:0.1020| aux_loss_bbox:0.4748| aux_loss_dfl:0.1319| 
+[NanoDet][06-11 16:45:32]INFO: Train|Epoch18/300|Iter700(37)| lr:1.40e-01| loss_qfl:0.1088| loss_bbox:0.4981| loss_dfl:0.1322| aux_loss_qfl:0.1108| aux_loss_bbox:0.5060| aux_loss_dfl:0.1337| 
+[NanoDet][06-11 16:46:04]INFO: Train|Epoch19/300|Iter735(33)| lr:1.40e-01| loss_qfl:0.1359| loss_bbox:0.5113| loss_dfl:0.1301| aux_loss_qfl:0.1359| aux_loss_bbox:0.4889| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 16:46:35]INFO: Train|Epoch20/300|Iter770(29)| lr:1.40e-01| loss_qfl:0.1151| loss_bbox:0.5006| loss_dfl:0.1313| aux_loss_qfl:0.1209| aux_loss_bbox:0.4981| aux_loss_dfl:0.1300| 
+[NanoDet][06-11 16:46:46]INFO: Val|Epoch20/300|Iter780(0)| lr:1.40e-01| loss_qfl:0.1263| loss_bbox:0.4561| loss_dfl:0.1406| aux_loss_qfl:0.1298| aux_loss_bbox:0.4575| aux_loss_dfl:0.1410| 
+[NanoDet][06-11 16:46:51]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.592
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.953
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.678
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.559
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.641
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.679
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.684
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.684
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.655
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+
+[NanoDet][06-11 16:46:51]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 96.8   | 63.8  | adl     | 93.7   | 54.5  |
+[NanoDet][06-11 16:46:52]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 16:46:52]INFO: Val_metrics: {'mAP': 0.5916315953735232, 'AP_50': 0.9527120689275496, 'AP_75': 0.6777768577492705, 'AP_small': 0.0, 'AP_m': 0.5586986362576656, 'AP_l': 0.6405393938113553}
+[NanoDet][06-11 16:47:17]INFO: Train|Epoch21/300|Iter805(25)| lr:1.40e-01| loss_qfl:0.1083| loss_bbox:0.5116| loss_dfl:0.1296| aux_loss_qfl:0.1069| aux_loss_bbox:0.4966| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 16:47:48]INFO: Train|Epoch22/300|Iter840(21)| lr:1.40e-01| loss_qfl:0.1119| loss_bbox:0.4930| loss_dfl:0.1319| aux_loss_qfl:0.1122| aux_loss_bbox:0.4853| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 16:48:20]INFO: Train|Epoch23/300|Iter875(17)| lr:1.40e-01| loss_qfl:0.1076| loss_bbox:0.5263| loss_dfl:0.1341| aux_loss_qfl:0.1140| aux_loss_bbox:0.5197| aux_loss_dfl:0.1340| 
+[NanoDet][06-11 16:48:51]INFO: Train|Epoch24/300|Iter910(13)| lr:1.40e-01| loss_qfl:0.1130| loss_bbox:0.5109| loss_dfl:0.1322| aux_loss_qfl:0.1037| aux_loss_bbox:0.5107| aux_loss_dfl:0.1325| 
+[NanoDet][06-11 16:49:22]INFO: Train|Epoch25/300|Iter945(9)| lr:1.40e-01| loss_qfl:0.0865| loss_bbox:0.5020| loss_dfl:0.1317| aux_loss_qfl:0.0828| aux_loss_bbox:0.4873| aux_loss_dfl:0.1323| 
+[NanoDet][06-11 16:49:53]INFO: Train|Epoch26/300|Iter980(5)| lr:1.40e-01| loss_qfl:0.1402| loss_bbox:0.4962| loss_dfl:0.1318| aux_loss_qfl:0.1327| aux_loss_bbox:0.4914| aux_loss_dfl:0.1319| 
+[NanoDet][06-11 16:50:24]INFO: Train|Epoch27/300|Iter1015(1)| lr:1.40e-01| loss_qfl:0.1136| loss_bbox:0.5008| loss_dfl:0.1322| aux_loss_qfl:0.1111| aux_loss_bbox:0.4902| aux_loss_dfl:0.1324| 
+[NanoDet][06-11 16:50:51]INFO: Train|Epoch27/300|Iter1050(36)| lr:1.40e-01| loss_qfl:0.1029| loss_bbox:0.5003| loss_dfl:0.1303| aux_loss_qfl:0.0990| aux_loss_bbox:0.4773| aux_loss_dfl:0.1308| 
+[NanoDet][06-11 16:51:22]INFO: Train|Epoch28/300|Iter1085(32)| lr:1.40e-01| loss_qfl:0.0918| loss_bbox:0.5161| loss_dfl:0.1321| aux_loss_qfl:0.0899| aux_loss_bbox:0.5095| aux_loss_dfl:0.1323| 
+[NanoDet][06-11 16:51:53]INFO: Train|Epoch29/300|Iter1120(28)| lr:1.40e-01| loss_qfl:0.1062| loss_bbox:0.4547| loss_dfl:0.1318| aux_loss_qfl:0.0962| aux_loss_bbox:0.4556| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 16:52:24]INFO: Train|Epoch30/300|Iter1155(24)| lr:1.40e-01| loss_qfl:0.0989| loss_bbox:0.4895| loss_dfl:0.1329| aux_loss_qfl:0.0968| aux_loss_bbox:0.4905| aux_loss_dfl:0.1332| 
+[NanoDet][06-11 16:52:39]INFO: Val|Epoch30/300|Iter1170(0)| lr:1.40e-01| loss_qfl:0.0909| loss_bbox:0.4523| loss_dfl:0.1393| aux_loss_qfl:0.0919| aux_loss_bbox:0.4433| aux_loss_dfl:0.1382| 
+[NanoDet][06-11 16:52:45]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.598
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.965
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.719
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.588
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.620
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.672
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.680
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.680
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.670
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.693
+
+[NanoDet][06-11 16:52:45]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 98.9   | 62.9  | adl     | 94.2   | 56.6  |
+[NanoDet][06-11 16:52:45]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 16:52:45]INFO: Val_metrics: {'mAP': 0.5978312021305435, 'AP_50': 0.9650710564884354, 'AP_75': 0.7191667629265217, 'AP_small': 0.0, 'AP_m': 0.5877921009707636, 'AP_l': 0.6201677136085945}
+[NanoDet][06-11 16:53:06]INFO: Train|Epoch31/300|Iter1190(20)| lr:1.40e-01| loss_qfl:0.1026| loss_bbox:0.4763| loss_dfl:0.1288| aux_loss_qfl:0.1009| aux_loss_bbox:0.4754| aux_loss_dfl:0.1309| 
+[NanoDet][06-11 16:53:37]INFO: Train|Epoch32/300|Iter1225(16)| lr:1.40e-01| loss_qfl:0.0998| loss_bbox:0.4882| loss_dfl:0.1295| aux_loss_qfl:0.1030| aux_loss_bbox:0.4841| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 16:54:09]INFO: Train|Epoch33/300|Iter1260(12)| lr:1.40e-01| loss_qfl:0.1108| loss_bbox:0.5064| loss_dfl:0.1285| aux_loss_qfl:0.1060| aux_loss_bbox:0.4889| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 16:54:40]INFO: Train|Epoch34/300|Iter1295(8)| lr:1.40e-01| loss_qfl:0.1069| loss_bbox:0.4851| loss_dfl:0.1292| aux_loss_qfl:0.1102| aux_loss_bbox:0.4712| aux_loss_dfl:0.1288| 
+[NanoDet][06-11 16:55:11]INFO: Train|Epoch35/300|Iter1330(4)| lr:1.40e-01| loss_qfl:0.0848| loss_bbox:0.4748| loss_dfl:0.1342| aux_loss_qfl:0.0824| aux_loss_bbox:0.4767| aux_loss_dfl:0.1340| 
+[NanoDet][06-11 16:55:42]INFO: Train|Epoch36/300|Iter1365(0)| lr:1.40e-01| loss_qfl:0.0944| loss_bbox:0.4872| loss_dfl:0.1301| aux_loss_qfl:0.0864| aux_loss_bbox:0.4778| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 16:56:09]INFO: Train|Epoch36/300|Iter1400(35)| lr:1.40e-01| loss_qfl:0.1185| loss_bbox:0.4816| loss_dfl:0.1326| aux_loss_qfl:0.1218| aux_loss_bbox:0.4835| aux_loss_dfl:0.1320| 
+[NanoDet][06-11 16:56:40]INFO: Train|Epoch37/300|Iter1435(31)| lr:1.40e-01| loss_qfl:0.0948| loss_bbox:0.5029| loss_dfl:0.1310| aux_loss_qfl:0.0970| aux_loss_bbox:0.4939| aux_loss_dfl:0.1317| 
+[NanoDet][06-11 16:57:12]INFO: Train|Epoch38/300|Iter1470(27)| lr:1.40e-01| loss_qfl:0.1164| loss_bbox:0.4912| loss_dfl:0.1334| aux_loss_qfl:0.1251| aux_loss_bbox:0.4889| aux_loss_dfl:0.1335| 
+[NanoDet][06-11 16:57:43]INFO: Train|Epoch39/300|Iter1505(23)| lr:1.40e-01| loss_qfl:0.0893| loss_bbox:0.4924| loss_dfl:0.1268| aux_loss_qfl:0.0851| aux_loss_bbox:0.4891| aux_loss_dfl:0.1260| 
+[NanoDet][06-11 16:58:14]INFO: Train|Epoch40/300|Iter1540(19)| lr:1.40e-01| loss_qfl:0.1372| loss_bbox:0.4816| loss_dfl:0.1333| aux_loss_qfl:0.1360| aux_loss_bbox:0.4671| aux_loss_dfl:0.1327| 
+[NanoDet][06-11 16:58:32]INFO: Val|Epoch40/300|Iter1560(0)| lr:1.40e-01| loss_qfl:0.0909| loss_bbox:0.4479| loss_dfl:0.1373| aux_loss_qfl:0.0902| aux_loss_bbox:0.4408| aux_loss_dfl:0.1390| 
+[NanoDet][06-11 16:58:38]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.656
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.975
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.816
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.642
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.675
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.720
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.725
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+
+[NanoDet][06-11 16:58:38]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 98.6   | 67.4  | adl     | 96.4   | 63.7  |
+[NanoDet][06-11 16:58:39]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 16:58:39]INFO: Val_metrics: {'mAP': 0.6557243921380378, 'AP_50': 0.9750962053010678, 'AP_75': 0.8157457911330999, 'AP_small': 0.0, 'AP_m': 0.6421646618337162, 'AP_l': 0.6747472583825653}
+[NanoDet][06-11 16:58:56]INFO: Train|Epoch41/300|Iter1575(15)| lr:1.40e-02| loss_qfl:0.0861| loss_bbox:0.4710| loss_dfl:0.1311| aux_loss_qfl:0.0822| aux_loss_bbox:0.4718| aux_loss_dfl:0.1309| 
+[NanoDet][06-11 16:59:27]INFO: Train|Epoch42/300|Iter1610(11)| lr:1.40e-02| loss_qfl:0.0674| loss_bbox:0.4535| loss_dfl:0.1267| aux_loss_qfl:0.0632| aux_loss_bbox:0.4486| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 16:59:58]INFO: Train|Epoch43/300|Iter1645(7)| lr:1.40e-02| loss_qfl:0.0798| loss_bbox:0.4493| loss_dfl:0.1283| aux_loss_qfl:0.0827| aux_loss_bbox:0.4484| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 17:00:29]INFO: Train|Epoch44/300|Iter1680(3)| lr:1.40e-02| loss_qfl:0.0854| loss_bbox:0.4366| loss_dfl:0.1320| aux_loss_qfl:0.0859| aux_loss_bbox:0.4324| aux_loss_dfl:0.1320| 
+[NanoDet][06-11 17:00:55]INFO: Train|Epoch44/300|Iter1715(38)| lr:1.40e-02| loss_qfl:0.0710| loss_bbox:0.4390| loss_dfl:0.1263| aux_loss_qfl:0.0733| aux_loss_bbox:0.4349| aux_loss_dfl:0.1262| 
+[NanoDet][06-11 17:01:27]INFO: Train|Epoch45/300|Iter1750(34)| lr:1.40e-02| loss_qfl:0.0733| loss_bbox:0.4587| loss_dfl:0.1291| aux_loss_qfl:0.0716| aux_loss_bbox:0.4553| aux_loss_dfl:0.1291| 
+[NanoDet][06-11 17:01:58]INFO: Train|Epoch46/300|Iter1785(30)| lr:1.40e-02| loss_qfl:0.0770| loss_bbox:0.4432| loss_dfl:0.1298| aux_loss_qfl:0.0767| aux_loss_bbox:0.4450| aux_loss_dfl:0.1295| 
+[NanoDet][06-11 17:02:30]INFO: Train|Epoch47/300|Iter1820(26)| lr:1.40e-02| loss_qfl:0.1148| loss_bbox:0.4612| loss_dfl:0.1313| aux_loss_qfl:0.1145| aux_loss_bbox:0.4569| aux_loss_dfl:0.1311| 
+[NanoDet][06-11 17:03:01]INFO: Train|Epoch48/300|Iter1855(22)| lr:1.40e-02| loss_qfl:0.0722| loss_bbox:0.4591| loss_dfl:0.1329| aux_loss_qfl:0.0768| aux_loss_bbox:0.4546| aux_loss_dfl:0.1332| 
+[NanoDet][06-11 17:03:33]INFO: Train|Epoch49/300|Iter1890(18)| lr:1.40e-02| loss_qfl:0.0751| loss_bbox:0.4406| loss_dfl:0.1280| aux_loss_qfl:0.0752| aux_loss_bbox:0.4416| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 17:04:04]INFO: Train|Epoch50/300|Iter1925(14)| lr:1.40e-02| loss_qfl:0.0811| loss_bbox:0.4609| loss_dfl:0.1289| aux_loss_qfl:0.0825| aux_loss_bbox:0.4618| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 17:04:25]INFO: Val|Epoch50/300|Iter1950(0)| lr:1.40e-02| loss_qfl:0.0705| loss_bbox:0.4224| loss_dfl:0.1358| aux_loss_qfl:0.0721| aux_loss_bbox:0.4235| aux_loss_dfl:0.1364| 
+[NanoDet][06-11 17:04:31]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.712
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.983
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.876
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.700
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.767
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.771
+
+[NanoDet][06-11 17:04:31]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.4   | 75.3  | adl     | 97.2   | 67.0  |
+[NanoDet][06-11 17:04:31]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 17:04:32]INFO: Val_metrics: {'mAP': 0.7115663613341034, 'AP_50': 0.9831414267569993, 'AP_75': 0.8758777201131928, 'AP_small': 0.0, 'AP_m': 0.6998249608430078, 'AP_l': 0.7256467554720689}
+[NanoDet][06-11 17:04:45]INFO: Train|Epoch51/300|Iter1960(10)| lr:1.40e-02| loss_qfl:0.0754| loss_bbox:0.4607| loss_dfl:0.1318| aux_loss_qfl:0.0757| aux_loss_bbox:0.4624| aux_loss_dfl:0.1318| 
+[NanoDet][06-11 17:05:16]INFO: Train|Epoch52/300|Iter1995(6)| lr:1.40e-02| loss_qfl:0.0629| loss_bbox:0.4409| loss_dfl:0.1292| aux_loss_qfl:0.0620| aux_loss_bbox:0.4408| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 17:05:47]INFO: Train|Epoch53/300|Iter2030(2)| lr:1.40e-02| loss_qfl:0.0864| loss_bbox:0.4738| loss_dfl:0.1281| aux_loss_qfl:0.0842| aux_loss_bbox:0.4676| aux_loss_dfl:0.1284| 
+[NanoDet][06-11 17:06:14]INFO: Train|Epoch53/300|Iter2065(37)| lr:1.40e-02| loss_qfl:0.0708| loss_bbox:0.4339| loss_dfl:0.1321| aux_loss_qfl:0.0687| aux_loss_bbox:0.4309| aux_loss_dfl:0.1322| 
+[NanoDet][06-11 17:06:45]INFO: Train|Epoch54/300|Iter2100(33)| lr:1.40e-02| loss_qfl:0.0805| loss_bbox:0.4502| loss_dfl:0.1264| aux_loss_qfl:0.0763| aux_loss_bbox:0.4495| aux_loss_dfl:0.1259| 
+[NanoDet][06-11 17:07:16]INFO: Train|Epoch55/300|Iter2135(29)| lr:1.40e-02| loss_qfl:0.0859| loss_bbox:0.4790| loss_dfl:0.1292| aux_loss_qfl:0.0855| aux_loss_bbox:0.4761| aux_loss_dfl:0.1295| 
+[NanoDet][06-11 17:07:48]INFO: Train|Epoch56/300|Iter2170(25)| lr:1.40e-03| loss_qfl:0.0782| loss_bbox:0.4715| loss_dfl:0.1290| aux_loss_qfl:0.0775| aux_loss_bbox:0.4705| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 17:08:19]INFO: Train|Epoch57/300|Iter2205(21)| lr:1.40e-03| loss_qfl:0.0834| loss_bbox:0.4190| loss_dfl:0.1274| aux_loss_qfl:0.0844| aux_loss_bbox:0.4160| aux_loss_dfl:0.1272| 
+[NanoDet][06-11 17:08:51]INFO: Train|Epoch58/300|Iter2240(17)| lr:1.40e-03| loss_qfl:0.0744| loss_bbox:0.4717| loss_dfl:0.1279| aux_loss_qfl:0.0743| aux_loss_bbox:0.4673| aux_loss_dfl:0.1276| 
+[NanoDet][06-11 17:09:22]INFO: Train|Epoch59/300|Iter2275(13)| lr:1.40e-03| loss_qfl:0.0992| loss_bbox:0.4765| loss_dfl:0.1316| aux_loss_qfl:0.1005| aux_loss_bbox:0.4740| aux_loss_dfl:0.1315| 
+[NanoDet][06-11 17:09:53]INFO: Train|Epoch60/300|Iter2310(9)| lr:1.40e-03| loss_qfl:0.0741| loss_bbox:0.4418| loss_dfl:0.1279| aux_loss_qfl:0.0743| aux_loss_bbox:0.4435| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 17:10:19]INFO: Val|Epoch60/300|Iter2340(0)| lr:1.40e-03| loss_qfl:0.0726| loss_bbox:0.4243| loss_dfl:0.1355| aux_loss_qfl:0.0742| aux_loss_bbox:0.4207| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 17:10:25]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.711
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.867
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.698
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.768
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.770
+
+[NanoDet][06-11 17:10:25]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.5   | 67.1  |
+[NanoDet][06-11 17:10:25]INFO: Val_metrics: {'mAP': 0.7107800008390865, 'AP_50': 0.9837332977650025, 'AP_75': 0.8668370126301331, 'AP_small': 0.0, 'AP_m': 0.6984560494747889, 'AP_l': 0.7262036957940596}
+[NanoDet][06-11 17:10:34]INFO: Train|Epoch61/300|Iter2345(5)| lr:1.40e-04| loss_qfl:0.0902| loss_bbox:0.4628| loss_dfl:0.1329| aux_loss_qfl:0.0935| aux_loss_bbox:0.4622| aux_loss_dfl:0.1326| 
+[NanoDet][06-11 17:11:05]INFO: Train|Epoch62/300|Iter2380(1)| lr:1.40e-04| loss_qfl:0.0716| loss_bbox:0.4504| loss_dfl:0.1255| aux_loss_qfl:0.0707| aux_loss_bbox:0.4473| aux_loss_dfl:0.1252| 
+[NanoDet][06-11 17:11:32]INFO: Train|Epoch62/300|Iter2415(36)| lr:1.40e-04| loss_qfl:0.0574| loss_bbox:0.4413| loss_dfl:0.1284| aux_loss_qfl:0.0568| aux_loss_bbox:0.4368| aux_loss_dfl:0.1283| 
+[NanoDet][06-11 17:12:03]INFO: Train|Epoch63/300|Iter2450(32)| lr:1.40e-04| loss_qfl:0.0730| loss_bbox:0.4132| loss_dfl:0.1255| aux_loss_qfl:0.0710| aux_loss_bbox:0.4150| aux_loss_dfl:0.1253| 
+[NanoDet][06-11 17:12:34]INFO: Train|Epoch64/300|Iter2485(28)| lr:1.40e-04| loss_qfl:0.0663| loss_bbox:0.4320| loss_dfl:0.1296| aux_loss_qfl:0.0680| aux_loss_bbox:0.4316| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 17:13:06]INFO: Train|Epoch65/300|Iter2520(24)| lr:1.40e-04| loss_qfl:0.0606| loss_bbox:0.4357| loss_dfl:0.1290| aux_loss_qfl:0.0633| aux_loss_bbox:0.4344| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:13:37]INFO: Train|Epoch66/300|Iter2555(20)| lr:1.40e-05| loss_qfl:0.0671| loss_bbox:0.4511| loss_dfl:0.1267| aux_loss_qfl:0.0674| aux_loss_bbox:0.4483| aux_loss_dfl:0.1265| 
+[NanoDet][06-11 17:14:08]INFO: Train|Epoch67/300|Iter2590(16)| lr:1.40e-05| loss_qfl:0.0924| loss_bbox:0.4402| loss_dfl:0.1282| aux_loss_qfl:0.0937| aux_loss_bbox:0.4390| aux_loss_dfl:0.1282| 
+[NanoDet][06-11 17:14:39]INFO: Train|Epoch68/300|Iter2625(12)| lr:1.40e-05| loss_qfl:0.0822| loss_bbox:0.4513| loss_dfl:0.1289| aux_loss_qfl:0.0841| aux_loss_bbox:0.4488| aux_loss_dfl:0.1286| 
+[NanoDet][06-11 17:15:10]INFO: Train|Epoch69/300|Iter2660(8)| lr:1.40e-05| loss_qfl:0.0674| loss_bbox:0.4329| loss_dfl:0.1276| aux_loss_qfl:0.0679| aux_loss_bbox:0.4322| aux_loss_dfl:0.1273| 
+[NanoDet][06-11 17:15:42]INFO: Train|Epoch70/300|Iter2695(4)| lr:1.40e-05| loss_qfl:0.0579| loss_bbox:0.4576| loss_dfl:0.1309| aux_loss_qfl:0.0573| aux_loss_bbox:0.4546| aux_loss_dfl:0.1308| 
+[NanoDet][06-11 17:16:11]INFO: Val|Epoch70/300|Iter2730(0)| lr:1.40e-05| loss_qfl:0.0732| loss_bbox:0.4220| loss_dfl:0.1353| aux_loss_qfl:0.0752| aux_loss_bbox:0.4186| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 17:16:17]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.712
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.868
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.700
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.769
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.768
+
+[NanoDet][06-11 17:16:17]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.1  | adl     | 97.7   | 67.4  |
+[NanoDet][06-11 17:16:17]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 17:16:17]INFO: Val_metrics: {'mAP': 0.7124198220021535, 'AP_50': 0.9841324711487605, 'AP_75': 0.8677947850879065, 'AP_small': 0.0, 'AP_m': 0.6999008810152176, 'AP_l': 0.7264686779282432}
+[NanoDet][06-11 17:16:22]INFO: Train|Epoch71/300|Iter2730(0)| lr:1.40e-05| loss_qfl:0.0646| loss_bbox:0.4466| loss_dfl:0.1279| aux_loss_qfl:0.0655| aux_loss_bbox:0.4463| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 17:16:49]INFO: Train|Epoch71/300|Iter2765(35)| lr:1.40e-05| loss_qfl:0.0680| loss_bbox:0.4584| loss_dfl:0.1274| aux_loss_qfl:0.0666| aux_loss_bbox:0.4543| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 17:17:21]INFO: Train|Epoch72/300|Iter2800(31)| lr:1.40e-05| loss_qfl:0.0666| loss_bbox:0.4422| loss_dfl:0.1288| aux_loss_qfl:0.0677| aux_loss_bbox:0.4412| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 17:17:52]INFO: Train|Epoch73/300|Iter2835(27)| lr:1.40e-05| loss_qfl:0.0619| loss_bbox:0.4379| loss_dfl:0.1284| aux_loss_qfl:0.0610| aux_loss_bbox:0.4366| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 17:18:24]INFO: Train|Epoch74/300|Iter2870(23)| lr:1.40e-05| loss_qfl:0.0578| loss_bbox:0.4367| loss_dfl:0.1310| aux_loss_qfl:0.0591| aux_loss_bbox:0.4331| aux_loss_dfl:0.1307| 
+[NanoDet][06-11 17:18:55]INFO: Train|Epoch75/300|Iter2905(19)| lr:1.40e-05| loss_qfl:0.0738| loss_bbox:0.4486| loss_dfl:0.1290| aux_loss_qfl:0.0754| aux_loss_bbox:0.4444| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:19:26]INFO: Train|Epoch76/300|Iter2940(15)| lr:1.40e-05| loss_qfl:0.0691| loss_bbox:0.4335| loss_dfl:0.1275| aux_loss_qfl:0.0718| aux_loss_bbox:0.4319| aux_loss_dfl:0.1276| 
+[NanoDet][06-11 17:19:57]INFO: Train|Epoch77/300|Iter2975(11)| lr:1.40e-05| loss_qfl:0.0694| loss_bbox:0.4475| loss_dfl:0.1306| aux_loss_qfl:0.0694| aux_loss_bbox:0.4501| aux_loss_dfl:0.1306| 
+[NanoDet][06-11 17:20:28]INFO: Train|Epoch78/300|Iter3010(7)| lr:1.40e-05| loss_qfl:0.0620| loss_bbox:0.4445| loss_dfl:0.1279| aux_loss_qfl:0.0648| aux_loss_bbox:0.4421| aux_loss_dfl:0.1282| 
+[NanoDet][06-11 17:20:59]INFO: Train|Epoch79/300|Iter3045(3)| lr:1.40e-05| loss_qfl:0.0842| loss_bbox:0.4706| loss_dfl:0.1311| aux_loss_qfl:0.0830| aux_loss_bbox:0.4671| aux_loss_dfl:0.1312| 
+[NanoDet][06-11 17:21:26]INFO: Train|Epoch79/300|Iter3080(38)| lr:1.40e-05| loss_qfl:0.0800| loss_bbox:0.4669| loss_dfl:0.1313| aux_loss_qfl:0.0788| aux_loss_bbox:0.4688| aux_loss_dfl:0.1309| 
+[NanoDet][06-11 17:21:57]INFO: Train|Epoch80/300|Iter3115(34)| lr:1.40e-05| loss_qfl:0.0608| loss_bbox:0.4518| loss_dfl:0.1296| aux_loss_qfl:0.0603| aux_loss_bbox:0.4539| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 17:22:04]INFO: Val|Epoch80/300|Iter3120(0)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4224| loss_dfl:0.1354| aux_loss_qfl:0.0749| aux_loss_bbox:0.4183| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 17:22:09]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.712
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.868
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.699
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.768
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 17:22:09]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.1  | adl     | 97.6   | 67.3  |
+[NanoDet][06-11 17:22:09]INFO: Val_metrics: {'mAP': 0.7117804652655141, 'AP_50': 0.9840723444450127, 'AP_75': 0.8684855413088113, 'AP_small': 0.0, 'AP_m': 0.6992645789274148, 'AP_l': 0.7272395241627055}
+[NanoDet][06-11 17:22:38]INFO: Train|Epoch81/300|Iter3150(30)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4356| loss_dfl:0.1296| aux_loss_qfl:0.0722| aux_loss_bbox:0.4339| aux_loss_dfl:0.1295| 
+[NanoDet][06-11 17:23:09]INFO: Train|Epoch82/300|Iter3185(26)| lr:1.40e-05| loss_qfl:0.0650| loss_bbox:0.4540| loss_dfl:0.1303| aux_loss_qfl:0.0624| aux_loss_bbox:0.4520| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 17:23:40]INFO: Train|Epoch83/300|Iter3220(22)| lr:1.40e-05| loss_qfl:0.0715| loss_bbox:0.4471| loss_dfl:0.1256| aux_loss_qfl:0.0740| aux_loss_bbox:0.4466| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 17:24:12]INFO: Train|Epoch84/300|Iter3255(18)| lr:1.40e-05| loss_qfl:0.0739| loss_bbox:0.4730| loss_dfl:0.1256| aux_loss_qfl:0.0756| aux_loss_bbox:0.4695| aux_loss_dfl:0.1250| 
+[NanoDet][06-11 17:24:43]INFO: Train|Epoch85/300|Iter3290(14)| lr:1.40e-05| loss_qfl:0.0807| loss_bbox:0.4391| loss_dfl:0.1314| aux_loss_qfl:0.0774| aux_loss_bbox:0.4346| aux_loss_dfl:0.1313| 
+[NanoDet][06-11 17:25:14]INFO: Train|Epoch86/300|Iter3325(10)| lr:1.40e-05| loss_qfl:0.0967| loss_bbox:0.4515| loss_dfl:0.1273| aux_loss_qfl:0.0974| aux_loss_bbox:0.4545| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 17:25:45]INFO: Train|Epoch87/300|Iter3360(6)| lr:1.40e-05| loss_qfl:0.0637| loss_bbox:0.4559| loss_dfl:0.1243| aux_loss_qfl:0.0639| aux_loss_bbox:0.4568| aux_loss_dfl:0.1247| 
+[NanoDet][06-11 17:26:16]INFO: Train|Epoch88/300|Iter3395(2)| lr:1.40e-05| loss_qfl:0.0620| loss_bbox:0.4407| loss_dfl:0.1281| aux_loss_qfl:0.0603| aux_loss_bbox:0.4413| aux_loss_dfl:0.1280| 
+[NanoDet][06-11 17:26:42]INFO: Train|Epoch88/300|Iter3430(37)| lr:1.40e-05| loss_qfl:0.0659| loss_bbox:0.4547| loss_dfl:0.1254| aux_loss_qfl:0.0668| aux_loss_bbox:0.4578| aux_loss_dfl:0.1251| 
+[NanoDet][06-11 17:27:14]INFO: Train|Epoch89/300|Iter3465(33)| lr:1.40e-05| loss_qfl:0.0695| loss_bbox:0.4365| loss_dfl:0.1278| aux_loss_qfl:0.0699| aux_loss_bbox:0.4345| aux_loss_dfl:0.1273| 
+[NanoDet][06-11 17:27:45]INFO: Train|Epoch90/300|Iter3500(29)| lr:1.40e-05| loss_qfl:0.0540| loss_bbox:0.4377| loss_dfl:0.1271| aux_loss_qfl:0.0537| aux_loss_bbox:0.4393| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 17:27:56]INFO: Val|Epoch90/300|Iter3510(0)| lr:1.40e-05| loss_qfl:0.0745| loss_bbox:0.4229| loss_dfl:0.1354| aux_loss_qfl:0.0766| aux_loss_bbox:0.4191| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 17:28:02]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.866
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.701
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.770
+
+[NanoDet][06-11 17:28:02]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.1   | 75.0  | adl     | 97.7   | 67.7  |
+[NanoDet][06-11 17:28:02]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 17:28:02]INFO: Val_metrics: {'mAP': 0.7135537062118845, 'AP_50': 0.9840882639793354, 'AP_75': 0.8663648410015868, 'AP_small': 0.0, 'AP_m': 0.701402306447332, 'AP_l': 0.727757071817659}
+[NanoDet][06-11 17:28:27]INFO: Train|Epoch91/300|Iter3535(25)| lr:1.40e-05| loss_qfl:0.0814| loss_bbox:0.4400| loss_dfl:0.1286| aux_loss_qfl:0.0810| aux_loss_bbox:0.4415| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 17:28:58]INFO: Train|Epoch92/300|Iter3570(21)| lr:1.40e-05| loss_qfl:0.0721| loss_bbox:0.4569| loss_dfl:0.1275| aux_loss_qfl:0.0727| aux_loss_bbox:0.4542| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 17:29:30]INFO: Train|Epoch93/300|Iter3605(17)| lr:1.40e-05| loss_qfl:0.0857| loss_bbox:0.4627| loss_dfl:0.1283| aux_loss_qfl:0.0840| aux_loss_bbox:0.4604| aux_loss_dfl:0.1282| 
+[NanoDet][06-11 17:30:01]INFO: Train|Epoch94/300|Iter3640(13)| lr:1.40e-05| loss_qfl:0.0684| loss_bbox:0.4614| loss_dfl:0.1275| aux_loss_qfl:0.0687| aux_loss_bbox:0.4613| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 17:30:32]INFO: Train|Epoch95/300|Iter3675(9)| lr:1.40e-05| loss_qfl:0.0615| loss_bbox:0.4301| loss_dfl:0.1292| aux_loss_qfl:0.0631| aux_loss_bbox:0.4324| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 17:31:03]INFO: Train|Epoch96/300|Iter3710(5)| lr:1.40e-05| loss_qfl:0.0508| loss_bbox:0.4572| loss_dfl:0.1294| aux_loss_qfl:0.0510| aux_loss_bbox:0.4518| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 17:31:34]INFO: Train|Epoch97/300|Iter3745(1)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4539| loss_dfl:0.1293| aux_loss_qfl:0.0746| aux_loss_bbox:0.4509| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 17:32:01]INFO: Train|Epoch97/300|Iter3780(36)| lr:1.40e-05| loss_qfl:0.0673| loss_bbox:0.4487| loss_dfl:0.1267| aux_loss_qfl:0.0681| aux_loss_bbox:0.4438| aux_loss_dfl:0.1265| 
+[NanoDet][06-11 17:32:32]INFO: Train|Epoch98/300|Iter3815(32)| lr:1.40e-05| loss_qfl:0.0840| loss_bbox:0.4515| loss_dfl:0.1276| aux_loss_qfl:0.0795| aux_loss_bbox:0.4466| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 17:33:03]INFO: Train|Epoch99/300|Iter3850(28)| lr:1.40e-05| loss_qfl:0.0550| loss_bbox:0.4559| loss_dfl:0.1296| aux_loss_qfl:0.0530| aux_loss_bbox:0.4526| aux_loss_dfl:0.1298| 
+[NanoDet][06-11 17:33:34]INFO: Train|Epoch100/300|Iter3885(24)| lr:1.40e-05| loss_qfl:0.0634| loss_bbox:0.4368| loss_dfl:0.1273| aux_loss_qfl:0.0643| aux_loss_bbox:0.4278| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 17:33:48]INFO: Val|Epoch100/300|Iter3900(0)| lr:1.40e-05| loss_qfl:0.0740| loss_bbox:0.4237| loss_dfl:0.1354| aux_loss_qfl:0.0758| aux_loss_bbox:0.4198| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 17:33:54]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.711
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.867
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.698
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.768
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.769
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.769
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 17:33:54]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.1   | 74.9  | adl     | 97.6   | 67.2  |
+[NanoDet][06-11 17:33:54]INFO: Val_metrics: {'mAP': 0.7105631767440148, 'AP_50': 0.983933223015072, 'AP_75': 0.8670121649654169, 'AP_small': 0.0, 'AP_m': 0.6975890597982806, 'AP_l': 0.7258572872708324}
+[NanoDet][06-11 17:34:15]INFO: Train|Epoch101/300|Iter3920(20)| lr:1.40e-05| loss_qfl:0.0819| loss_bbox:0.4458| loss_dfl:0.1273| aux_loss_qfl:0.0863| aux_loss_bbox:0.4426| aux_loss_dfl:0.1272| 
+[NanoDet][06-11 17:34:46]INFO: Train|Epoch102/300|Iter3955(16)| lr:1.40e-05| loss_qfl:0.0809| loss_bbox:0.4659| loss_dfl:0.1311| aux_loss_qfl:0.0818| aux_loss_bbox:0.4618| aux_loss_dfl:0.1311| 
+[NanoDet][06-11 17:35:17]INFO: Train|Epoch103/300|Iter3990(12)| lr:1.40e-05| loss_qfl:0.0758| loss_bbox:0.4664| loss_dfl:0.1302| aux_loss_qfl:0.0726| aux_loss_bbox:0.4637| aux_loss_dfl:0.1301| 
+[NanoDet][06-11 17:35:48]INFO: Train|Epoch104/300|Iter4025(8)| lr:1.40e-05| loss_qfl:0.0587| loss_bbox:0.4565| loss_dfl:0.1284| aux_loss_qfl:0.0592| aux_loss_bbox:0.4543| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 17:36:19]INFO: Train|Epoch105/300|Iter4060(4)| lr:1.40e-05| loss_qfl:0.0635| loss_bbox:0.4498| loss_dfl:0.1277| aux_loss_qfl:0.0647| aux_loss_bbox:0.4523| aux_loss_dfl:0.1280| 
+[NanoDet][06-11 17:36:49]INFO: Train|Epoch106/300|Iter4095(0)| lr:1.40e-05| loss_qfl:0.0728| loss_bbox:0.4339| loss_dfl:0.1298| aux_loss_qfl:0.0715| aux_loss_bbox:0.4313| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 17:37:17]INFO: Train|Epoch106/300|Iter4130(35)| lr:1.40e-05| loss_qfl:0.0701| loss_bbox:0.4463| loss_dfl:0.1311| aux_loss_qfl:0.0719| aux_loss_bbox:0.4454| aux_loss_dfl:0.1310| 
+[NanoDet][06-11 17:37:48]INFO: Train|Epoch107/300|Iter4165(31)| lr:1.40e-05| loss_qfl:0.0794| loss_bbox:0.4647| loss_dfl:0.1301| aux_loss_qfl:0.0781| aux_loss_bbox:0.4643| aux_loss_dfl:0.1302| 
+[NanoDet][06-11 17:38:19]INFO: Train|Epoch108/300|Iter4200(27)| lr:1.40e-05| loss_qfl:0.0597| loss_bbox:0.4407| loss_dfl:0.1302| aux_loss_qfl:0.0633| aux_loss_bbox:0.4409| aux_loss_dfl:0.1300| 
+[NanoDet][06-11 17:38:51]INFO: Train|Epoch109/300|Iter4235(23)| lr:1.40e-05| loss_qfl:0.0652| loss_bbox:0.4660| loss_dfl:0.1296| aux_loss_qfl:0.0660| aux_loss_bbox:0.4626| aux_loss_dfl:0.1291| 
+[NanoDet][06-11 17:39:22]INFO: Train|Epoch110/300|Iter4270(19)| lr:1.40e-05| loss_qfl:0.0769| loss_bbox:0.4407| loss_dfl:0.1300| aux_loss_qfl:0.0750| aux_loss_bbox:0.4386| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 17:39:40]INFO: Val|Epoch110/300|Iter4290(0)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4202| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4170| aux_loss_dfl:0.1354| 
+[NanoDet][06-11 17:39:46]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.717
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.880
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.705
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.731
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.774
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.774
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.773
+
+[NanoDet][06-11 17:39:46]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.4  | adl     | 97.7   | 68.0  |
+[NanoDet][06-11 17:39:46]INFO: Saving model to /content/drive/MyDrive/MasterThesis/NanoDet/ShuffleNetV2-05x/SaveTraining_SGD_fall/model_best/nanodet_model_best.pth
+[NanoDet][06-11 17:39:46]INFO: Val_metrics: {'mAP': 0.7171469384985822, 'AP_50': 0.9842819982625367, 'AP_75': 0.87987439459301, 'AP_small': 0.0, 'AP_m': 0.7045101641350807, 'AP_l': 0.7314189795036036}
+[NanoDet][06-11 17:40:04]INFO: Train|Epoch111/300|Iter4305(15)| lr:1.40e-05| loss_qfl:0.0760| loss_bbox:0.4502| loss_dfl:0.1278| aux_loss_qfl:0.0750| aux_loss_bbox:0.4493| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 17:40:35]INFO: Train|Epoch112/300|Iter4340(11)| lr:1.40e-05| loss_qfl:0.0729| loss_bbox:0.4514| loss_dfl:0.1262| aux_loss_qfl:0.0683| aux_loss_bbox:0.4480| aux_loss_dfl:0.1260| 
+[NanoDet][06-11 17:41:06]INFO: Train|Epoch113/300|Iter4375(7)| lr:1.40e-05| loss_qfl:0.0882| loss_bbox:0.4584| loss_dfl:0.1313| aux_loss_qfl:0.0865| aux_loss_bbox:0.4585| aux_loss_dfl:0.1308| 
+[NanoDet][06-11 17:41:38]INFO: Train|Epoch114/300|Iter4410(3)| lr:1.40e-05| loss_qfl:0.0901| loss_bbox:0.4556| loss_dfl:0.1288| aux_loss_qfl:0.0912| aux_loss_bbox:0.4531| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:42:04]INFO: Train|Epoch114/300|Iter4445(38)| lr:1.40e-05| loss_qfl:0.0572| loss_bbox:0.4428| loss_dfl:0.1305| aux_loss_qfl:0.0576| aux_loss_bbox:0.4425| aux_loss_dfl:0.1306| 
+[NanoDet][06-11 17:42:35]INFO: Train|Epoch115/300|Iter4480(34)| lr:1.40e-05| loss_qfl:0.0798| loss_bbox:0.4574| loss_dfl:0.1288| aux_loss_qfl:0.0778| aux_loss_bbox:0.4583| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:43:06]INFO: Train|Epoch116/300|Iter4515(30)| lr:1.40e-05| loss_qfl:0.0653| loss_bbox:0.4478| loss_dfl:0.1287| aux_loss_qfl:0.0646| aux_loss_bbox:0.4438| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 17:43:38]INFO: Train|Epoch117/300|Iter4550(26)| lr:1.40e-05| loss_qfl:0.0653| loss_bbox:0.4439| loss_dfl:0.1289| aux_loss_qfl:0.0643| aux_loss_bbox:0.4433| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:44:09]INFO: Train|Epoch118/300|Iter4585(22)| lr:1.40e-05| loss_qfl:0.0571| loss_bbox:0.4447| loss_dfl:0.1279| aux_loss_qfl:0.0581| aux_loss_bbox:0.4397| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 17:44:40]INFO: Train|Epoch119/300|Iter4620(18)| lr:1.40e-05| loss_qfl:0.0775| loss_bbox:0.4393| loss_dfl:0.1296| aux_loss_qfl:0.0765| aux_loss_bbox:0.4374| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 17:45:12]INFO: Train|Epoch120/300|Iter4655(14)| lr:1.40e-05| loss_qfl:0.0710| loss_bbox:0.4426| loss_dfl:0.1288| aux_loss_qfl:0.0691| aux_loss_bbox:0.4422| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 17:45:33]INFO: Val|Epoch120/300|Iter4680(0)| lr:1.40e-05| loss_qfl:0.0730| loss_bbox:0.4216| loss_dfl:0.1352| aux_loss_qfl:0.0751| aux_loss_bbox:0.4181| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 17:45:39]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.713
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.701
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.774
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 17:45:39]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.6  |
+[NanoDet][06-11 17:45:39]INFO: Val_metrics: {'mAP': 0.7125366014408875, 'AP_50': 0.9840226681595539, 'AP_75': 0.8685645896508379, 'AP_small': 0.0, 'AP_m': 0.7010034144318262, 'AP_l': 0.7263295156590146}
+[NanoDet][06-11 17:45:52]INFO: Train|Epoch121/300|Iter4690(10)| lr:1.40e-05| loss_qfl:0.0634| loss_bbox:0.4613| loss_dfl:0.1306| aux_loss_qfl:0.0646| aux_loss_bbox:0.4571| aux_loss_dfl:0.1304| 
+[NanoDet][06-11 17:46:23]INFO: Train|Epoch122/300|Iter4725(6)| lr:1.40e-05| loss_qfl:0.0613| loss_bbox:0.4712| loss_dfl:0.1256| aux_loss_qfl:0.0599| aux_loss_bbox:0.4666| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 17:46:55]INFO: Train|Epoch123/300|Iter4760(2)| lr:1.40e-05| loss_qfl:0.0662| loss_bbox:0.4724| loss_dfl:0.1270| aux_loss_qfl:0.0658| aux_loss_bbox:0.4681| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 17:47:21]INFO: Train|Epoch123/300|Iter4795(37)| lr:1.40e-05| loss_qfl:0.0795| loss_bbox:0.4537| loss_dfl:0.1270| aux_loss_qfl:0.0797| aux_loss_bbox:0.4545| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 17:47:53]INFO: Train|Epoch124/300|Iter4830(33)| lr:1.40e-05| loss_qfl:0.0870| loss_bbox:0.4426| loss_dfl:0.1296| aux_loss_qfl:0.0817| aux_loss_bbox:0.4480| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 17:48:24]INFO: Train|Epoch125/300|Iter4865(29)| lr:1.40e-05| loss_qfl:0.0883| loss_bbox:0.4577| loss_dfl:0.1265| aux_loss_qfl:0.0879| aux_loss_bbox:0.4566| aux_loss_dfl:0.1262| 
+[NanoDet][06-11 17:48:55]INFO: Train|Epoch126/300|Iter4900(25)| lr:1.40e-05| loss_qfl:0.0735| loss_bbox:0.4427| loss_dfl:0.1279| aux_loss_qfl:0.0731| aux_loss_bbox:0.4365| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 17:49:26]INFO: Train|Epoch127/300|Iter4935(21)| lr:1.40e-05| loss_qfl:0.0724| loss_bbox:0.4275| loss_dfl:0.1277| aux_loss_qfl:0.0723| aux_loss_bbox:0.4253| aux_loss_dfl:0.1276| 
+[NanoDet][06-11 17:49:57]INFO: Train|Epoch128/300|Iter4970(17)| lr:1.40e-05| loss_qfl:0.0761| loss_bbox:0.4376| loss_dfl:0.1273| aux_loss_qfl:0.0749| aux_loss_bbox:0.4344| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 17:50:29]INFO: Train|Epoch129/300|Iter5005(13)| lr:1.40e-05| loss_qfl:0.0987| loss_bbox:0.4359| loss_dfl:0.1289| aux_loss_qfl:0.0983| aux_loss_bbox:0.4387| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 17:51:00]INFO: Train|Epoch130/300|Iter5040(9)| lr:1.40e-05| loss_qfl:0.0899| loss_bbox:0.4350| loss_dfl:0.1297| aux_loss_qfl:0.0927| aux_loss_bbox:0.4343| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 17:51:26]INFO: Val|Epoch130/300|Iter5070(0)| lr:1.40e-05| loss_qfl:0.0732| loss_bbox:0.4229| loss_dfl:0.1353| aux_loss_qfl:0.0751| aux_loss_bbox:0.4191| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 17:51:31]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.713
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.870
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 17:51:31]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.7  |
+[NanoDet][06-11 17:51:31]INFO: Val_metrics: {'mAP': 0.7128947440688409, 'AP_50': 0.9842591739827115, 'AP_75': 0.8695046616330103, 'AP_small': 0.0, 'AP_m': 0.7016944220427276, 'AP_l': 0.7257963753245299}
+[NanoDet][06-11 17:51:40]INFO: Train|Epoch131/300|Iter5075(5)| lr:1.40e-05| loss_qfl:0.0691| loss_bbox:0.4615| loss_dfl:0.1288| aux_loss_qfl:0.0714| aux_loss_bbox:0.4617| aux_loss_dfl:0.1284| 
+[NanoDet][06-11 17:52:11]INFO: Train|Epoch132/300|Iter5110(1)| lr:1.40e-05| loss_qfl:0.0700| loss_bbox:0.4829| loss_dfl:0.1287| aux_loss_qfl:0.0715| aux_loss_bbox:0.4787| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 17:52:38]INFO: Train|Epoch132/300|Iter5145(36)| lr:1.40e-05| loss_qfl:0.0876| loss_bbox:0.4444| loss_dfl:0.1292| aux_loss_qfl:0.0866| aux_loss_bbox:0.4443| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 17:53:09]INFO: Train|Epoch133/300|Iter5180(32)| lr:1.40e-05| loss_qfl:0.0796| loss_bbox:0.4460| loss_dfl:0.1305| aux_loss_qfl:0.0784| aux_loss_bbox:0.4411| aux_loss_dfl:0.1307| 
+[NanoDet][06-11 17:53:41]INFO: Train|Epoch134/300|Iter5215(28)| lr:1.40e-05| loss_qfl:0.0760| loss_bbox:0.4630| loss_dfl:0.1314| aux_loss_qfl:0.0698| aux_loss_bbox:0.4658| aux_loss_dfl:0.1312| 
+[NanoDet][06-11 17:54:12]INFO: Train|Epoch135/300|Iter5250(24)| lr:1.40e-05| loss_qfl:0.0618| loss_bbox:0.4565| loss_dfl:0.1319| aux_loss_qfl:0.0620| aux_loss_bbox:0.4574| aux_loss_dfl:0.1318| 
+[NanoDet][06-11 17:54:43]INFO: Train|Epoch136/300|Iter5285(20)| lr:1.40e-05| loss_qfl:0.0701| loss_bbox:0.4590| loss_dfl:0.1297| aux_loss_qfl:0.0711| aux_loss_bbox:0.4572| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 17:55:15]INFO: Train|Epoch137/300|Iter5320(16)| lr:1.40e-05| loss_qfl:0.0627| loss_bbox:0.4189| loss_dfl:0.1289| aux_loss_qfl:0.0627| aux_loss_bbox:0.4215| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 17:55:46]INFO: Train|Epoch138/300|Iter5355(12)| lr:1.40e-05| loss_qfl:0.0679| loss_bbox:0.4698| loss_dfl:0.1314| aux_loss_qfl:0.0705| aux_loss_bbox:0.4671| aux_loss_dfl:0.1317| 
+[NanoDet][06-11 17:56:17]INFO: Train|Epoch139/300|Iter5390(8)| lr:1.40e-05| loss_qfl:0.0748| loss_bbox:0.4321| loss_dfl:0.1277| aux_loss_qfl:0.0724| aux_loss_bbox:0.4330| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 17:56:48]INFO: Train|Epoch140/300|Iter5425(4)| lr:1.40e-05| loss_qfl:0.0819| loss_bbox:0.4521| loss_dfl:0.1303| aux_loss_qfl:0.0826| aux_loss_bbox:0.4508| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 17:57:18]INFO: Val|Epoch140/300|Iter5460(0)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4217| loss_dfl:0.1353| aux_loss_qfl:0.0751| aux_loss_bbox:0.4181| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 17:57:23]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 17:57:23]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.1  | adl     | 97.6   | 67.7  |
+[NanoDet][06-11 17:57:23]INFO: Val_metrics: {'mAP': 0.7137966543030374, 'AP_50': 0.9840292296799563, 'AP_75': 0.8692862056777464, 'AP_small': 0.0, 'AP_m': 0.702426633601128, 'AP_l': 0.7268545449710634}
+[NanoDet][06-11 17:57:28]INFO: Train|Epoch141/300|Iter5460(0)| lr:1.40e-05| loss_qfl:0.0807| loss_bbox:0.4567| loss_dfl:0.1308| aux_loss_qfl:0.0828| aux_loss_bbox:0.4534| aux_loss_dfl:0.1307| 
+[NanoDet][06-11 17:57:55]INFO: Train|Epoch141/300|Iter5495(35)| lr:1.40e-05| loss_qfl:0.0860| loss_bbox:0.4564| loss_dfl:0.1264| aux_loss_qfl:0.0914| aux_loss_bbox:0.4573| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 17:58:26]INFO: Train|Epoch142/300|Iter5530(31)| lr:1.40e-05| loss_qfl:0.0662| loss_bbox:0.4553| loss_dfl:0.1275| aux_loss_qfl:0.0651| aux_loss_bbox:0.4508| aux_loss_dfl:0.1273| 
+[NanoDet][06-11 17:58:57]INFO: Train|Epoch143/300|Iter5565(27)| lr:1.40e-05| loss_qfl:0.0768| loss_bbox:0.4476| loss_dfl:0.1269| aux_loss_qfl:0.0755| aux_loss_bbox:0.4438| aux_loss_dfl:0.1268| 
+[NanoDet][06-11 17:59:29]INFO: Train|Epoch144/300|Iter5600(23)| lr:1.40e-05| loss_qfl:0.0750| loss_bbox:0.4550| loss_dfl:0.1298| aux_loss_qfl:0.0716| aux_loss_bbox:0.4521| aux_loss_dfl:0.1291| 
+[NanoDet][06-11 18:00:00]INFO: Train|Epoch145/300|Iter5635(19)| lr:1.40e-05| loss_qfl:0.0676| loss_bbox:0.4576| loss_dfl:0.1285| aux_loss_qfl:0.0661| aux_loss_bbox:0.4563| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 18:00:31]INFO: Train|Epoch146/300|Iter5670(15)| lr:1.40e-05| loss_qfl:0.0805| loss_bbox:0.4516| loss_dfl:0.1293| aux_loss_qfl:0.0799| aux_loss_bbox:0.4532| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 18:01:02]INFO: Train|Epoch147/300|Iter5705(11)| lr:1.40e-05| loss_qfl:0.0961| loss_bbox:0.4591| loss_dfl:0.1305| aux_loss_qfl:0.0966| aux_loss_bbox:0.4559| aux_loss_dfl:0.1301| 
+[NanoDet][06-11 18:01:33]INFO: Train|Epoch148/300|Iter5740(7)| lr:1.40e-05| loss_qfl:0.0703| loss_bbox:0.4197| loss_dfl:0.1257| aux_loss_qfl:0.0734| aux_loss_bbox:0.4205| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 18:02:05]INFO: Train|Epoch149/300|Iter5775(3)| lr:1.40e-05| loss_qfl:0.0642| loss_bbox:0.4367| loss_dfl:0.1266| aux_loss_qfl:0.0679| aux_loss_bbox:0.4320| aux_loss_dfl:0.1262| 
+[NanoDet][06-11 18:02:31]INFO: Train|Epoch149/300|Iter5810(38)| lr:1.40e-05| loss_qfl:0.0566| loss_bbox:0.4424| loss_dfl:0.1288| aux_loss_qfl:0.0540| aux_loss_bbox:0.4375| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 18:03:02]INFO: Train|Epoch150/300|Iter5845(34)| lr:1.40e-05| loss_qfl:0.0810| loss_bbox:0.4616| loss_dfl:0.1311| aux_loss_qfl:0.0804| aux_loss_bbox:0.4592| aux_loss_dfl:0.1309| 
+[NanoDet][06-11 18:03:09]INFO: Val|Epoch150/300|Iter5850(0)| lr:1.40e-05| loss_qfl:0.0736| loss_bbox:0.4231| loss_dfl:0.1354| aux_loss_qfl:0.0754| aux_loss_bbox:0.4194| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 18:03:14]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.712
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.700
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.769
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:03:14]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.5  |
+[NanoDet][06-11 18:03:14]INFO: Val_metrics: {'mAP': 0.7121722871716798, 'AP_50': 0.9841590808175458, 'AP_75': 0.8689235163457347, 'AP_small': 0.0, 'AP_m': 0.6998326781535446, 'AP_l': 0.7268785453916256}
+[NanoDet][06-11 18:03:42]INFO: Train|Epoch151/300|Iter5880(30)| lr:1.40e-05| loss_qfl:0.1049| loss_bbox:0.4351| loss_dfl:0.1275| aux_loss_qfl:0.1017| aux_loss_bbox:0.4314| aux_loss_dfl:0.1272| 
+[NanoDet][06-11 18:04:13]INFO: Train|Epoch152/300|Iter5915(26)| lr:1.40e-05| loss_qfl:0.0574| loss_bbox:0.4468| loss_dfl:0.1323| aux_loss_qfl:0.0566| aux_loss_bbox:0.4449| aux_loss_dfl:0.1319| 
+[NanoDet][06-11 18:04:44]INFO: Train|Epoch153/300|Iter5950(22)| lr:1.40e-05| loss_qfl:0.0727| loss_bbox:0.4530| loss_dfl:0.1298| aux_loss_qfl:0.0762| aux_loss_bbox:0.4535| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 18:05:15]INFO: Train|Epoch154/300|Iter5985(18)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4390| loss_dfl:0.1275| aux_loss_qfl:0.0724| aux_loss_bbox:0.4369| aux_loss_dfl:0.1274| 
+[NanoDet][06-11 18:05:47]INFO: Train|Epoch155/300|Iter6020(14)| lr:1.40e-05| loss_qfl:0.0601| loss_bbox:0.4512| loss_dfl:0.1307| aux_loss_qfl:0.0586| aux_loss_bbox:0.4441| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 18:06:18]INFO: Train|Epoch156/300|Iter6055(10)| lr:1.40e-05| loss_qfl:0.0862| loss_bbox:0.4555| loss_dfl:0.1313| aux_loss_qfl:0.0866| aux_loss_bbox:0.4550| aux_loss_dfl:0.1311| 
+[NanoDet][06-11 18:06:49]INFO: Train|Epoch157/300|Iter6090(6)| lr:1.40e-05| loss_qfl:0.0583| loss_bbox:0.4348| loss_dfl:0.1291| aux_loss_qfl:0.0574| aux_loss_bbox:0.4329| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 18:07:20]INFO: Train|Epoch158/300|Iter6125(2)| lr:1.40e-05| loss_qfl:0.0710| loss_bbox:0.4436| loss_dfl:0.1312| aux_loss_qfl:0.0693| aux_loss_bbox:0.4448| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 18:07:47]INFO: Train|Epoch158/300|Iter6160(37)| lr:1.40e-05| loss_qfl:0.0851| loss_bbox:0.4388| loss_dfl:0.1279| aux_loss_qfl:0.0870| aux_loss_bbox:0.4332| aux_loss_dfl:0.1274| 
+[NanoDet][06-11 18:08:17]INFO: Train|Epoch159/300|Iter6195(33)| lr:1.40e-05| loss_qfl:0.0652| loss_bbox:0.4713| loss_dfl:0.1309| aux_loss_qfl:0.0638| aux_loss_bbox:0.4651| aux_loss_dfl:0.1310| 
+[NanoDet][06-11 18:08:49]INFO: Train|Epoch160/300|Iter6230(29)| lr:1.40e-05| loss_qfl:0.0713| loss_bbox:0.4577| loss_dfl:0.1312| aux_loss_qfl:0.0718| aux_loss_bbox:0.4525| aux_loss_dfl:0.1312| 
+[NanoDet][06-11 18:08:59]INFO: Val|Epoch160/300|Iter6240(0)| lr:1.40e-05| loss_qfl:0.0738| loss_bbox:0.4233| loss_dfl:0.1353| aux_loss_qfl:0.0760| aux_loss_bbox:0.4196| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 18:09:05]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.713
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.872
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.701
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.770
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:09:05]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.6  |
+[NanoDet][06-11 18:09:05]INFO: Val_metrics: {'mAP': 0.712994085986315, 'AP_50': 0.9841700933033627, 'AP_75': 0.8717935877621188, 'AP_small': 0.0, 'AP_m': 0.7012189085525818, 'AP_l': 0.7262974857818689}
+[NanoDet][06-11 18:09:29]INFO: Train|Epoch161/300|Iter6265(25)| lr:1.40e-05| loss_qfl:0.0697| loss_bbox:0.4721| loss_dfl:0.1271| aux_loss_qfl:0.0707| aux_loss_bbox:0.4649| aux_loss_dfl:0.1268| 
+[NanoDet][06-11 18:10:00]INFO: Train|Epoch162/300|Iter6300(21)| lr:1.40e-05| loss_qfl:0.0936| loss_bbox:0.4461| loss_dfl:0.1267| aux_loss_qfl:0.0928| aux_loss_bbox:0.4408| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 18:10:31]INFO: Train|Epoch163/300|Iter6335(17)| lr:1.40e-05| loss_qfl:0.0806| loss_bbox:0.4498| loss_dfl:0.1268| aux_loss_qfl:0.0810| aux_loss_bbox:0.4484| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 18:11:02]INFO: Train|Epoch164/300|Iter6370(13)| lr:1.40e-05| loss_qfl:0.0539| loss_bbox:0.4347| loss_dfl:0.1303| aux_loss_qfl:0.0555| aux_loss_bbox:0.4309| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 18:11:33]INFO: Train|Epoch165/300|Iter6405(9)| lr:1.40e-05| loss_qfl:0.0685| loss_bbox:0.4405| loss_dfl:0.1284| aux_loss_qfl:0.0627| aux_loss_bbox:0.4329| aux_loss_dfl:0.1283| 
+[NanoDet][06-11 18:12:04]INFO: Train|Epoch166/300|Iter6440(5)| lr:1.40e-05| loss_qfl:0.0657| loss_bbox:0.4352| loss_dfl:0.1300| aux_loss_qfl:0.0679| aux_loss_bbox:0.4332| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 18:12:36]INFO: Train|Epoch167/300|Iter6475(1)| lr:1.40e-05| loss_qfl:0.0727| loss_bbox:0.4459| loss_dfl:0.1318| aux_loss_qfl:0.0700| aux_loss_bbox:0.4457| aux_loss_dfl:0.1316| 
+[NanoDet][06-11 18:13:03]INFO: Train|Epoch167/300|Iter6510(36)| lr:1.40e-05| loss_qfl:0.0792| loss_bbox:0.4516| loss_dfl:0.1297| aux_loss_qfl:0.0782| aux_loss_bbox:0.4527| aux_loss_dfl:0.1295| 
+[NanoDet][06-11 18:13:34]INFO: Train|Epoch168/300|Iter6545(32)| lr:1.40e-05| loss_qfl:0.0740| loss_bbox:0.4229| loss_dfl:0.1267| aux_loss_qfl:0.0717| aux_loss_bbox:0.4214| aux_loss_dfl:0.1266| 
+[NanoDet][06-11 18:14:05]INFO: Train|Epoch169/300|Iter6580(28)| lr:1.40e-05| loss_qfl:0.0664| loss_bbox:0.4528| loss_dfl:0.1279| aux_loss_qfl:0.0697| aux_loss_bbox:0.4492| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 18:14:37]INFO: Train|Epoch170/300|Iter6615(24)| lr:1.40e-05| loss_qfl:0.0761| loss_bbox:0.4426| loss_dfl:0.1281| aux_loss_qfl:0.0756| aux_loss_bbox:0.4427| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 18:14:51]INFO: Val|Epoch170/300|Iter6630(0)| lr:1.40e-05| loss_qfl:0.0738| loss_bbox:0.4220| loss_dfl:0.1353| aux_loss_qfl:0.0760| aux_loss_bbox:0.4184| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:14:56]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:14:56]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.1   | 75.0  | adl     | 97.7   | 67.7  |
+[NanoDet][06-11 18:14:56]INFO: Val_metrics: {'mAP': 0.7135443275130152, 'AP_50': 0.9840270177961198, 'AP_75': 0.8693173691791388, 'AP_small': 0.0, 'AP_m': 0.7019936496929439, 'AP_l': 0.7267257808823888}
+[NanoDet][06-11 18:15:17]INFO: Train|Epoch171/300|Iter6650(20)| lr:1.40e-05| loss_qfl:0.0642| loss_bbox:0.4392| loss_dfl:0.1277| aux_loss_qfl:0.0654| aux_loss_bbox:0.4403| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 18:15:48]INFO: Train|Epoch172/300|Iter6685(16)| lr:1.40e-05| loss_qfl:0.0623| loss_bbox:0.4445| loss_dfl:0.1305| aux_loss_qfl:0.0646| aux_loss_bbox:0.4416| aux_loss_dfl:0.1305| 
+[NanoDet][06-11 18:16:19]INFO: Train|Epoch173/300|Iter6720(12)| lr:1.40e-05| loss_qfl:0.0617| loss_bbox:0.4492| loss_dfl:0.1287| aux_loss_qfl:0.0635| aux_loss_bbox:0.4464| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 18:16:50]INFO: Train|Epoch174/300|Iter6755(8)| lr:1.40e-05| loss_qfl:0.0677| loss_bbox:0.4650| loss_dfl:0.1330| aux_loss_qfl:0.0669| aux_loss_bbox:0.4644| aux_loss_dfl:0.1326| 
+[NanoDet][06-11 18:17:21]INFO: Train|Epoch175/300|Iter6790(4)| lr:1.40e-05| loss_qfl:0.0663| loss_bbox:0.4442| loss_dfl:0.1290| aux_loss_qfl:0.0628| aux_loss_bbox:0.4405| aux_loss_dfl:0.1288| 
+[NanoDet][06-11 18:17:52]INFO: Train|Epoch176/300|Iter6825(0)| lr:1.40e-05| loss_qfl:0.0806| loss_bbox:0.4468| loss_dfl:0.1339| aux_loss_qfl:0.0797| aux_loss_bbox:0.4481| aux_loss_dfl:0.1340| 
+[NanoDet][06-11 18:18:18]INFO: Train|Epoch176/300|Iter6860(35)| lr:1.40e-05| loss_qfl:0.0622| loss_bbox:0.4252| loss_dfl:0.1269| aux_loss_qfl:0.0617| aux_loss_bbox:0.4249| aux_loss_dfl:0.1266| 
+[NanoDet][06-11 18:18:50]INFO: Train|Epoch177/300|Iter6895(31)| lr:1.40e-05| loss_qfl:0.0749| loss_bbox:0.4319| loss_dfl:0.1332| aux_loss_qfl:0.0743| aux_loss_bbox:0.4285| aux_loss_dfl:0.1326| 
+[NanoDet][06-11 18:19:21]INFO: Train|Epoch178/300|Iter6930(27)| lr:1.40e-05| loss_qfl:0.0747| loss_bbox:0.4460| loss_dfl:0.1302| aux_loss_qfl:0.0754| aux_loss_bbox:0.4443| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 18:19:52]INFO: Train|Epoch179/300|Iter6965(23)| lr:1.40e-05| loss_qfl:0.0609| loss_bbox:0.4232| loss_dfl:0.1308| aux_loss_qfl:0.0606| aux_loss_bbox:0.4214| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 18:20:23]INFO: Train|Epoch180/300|Iter7000(19)| lr:1.40e-05| loss_qfl:0.0721| loss_bbox:0.4270| loss_dfl:0.1295| aux_loss_qfl:0.0722| aux_loss_bbox:0.4257| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 18:20:41]INFO: Val|Epoch180/300|Iter7020(0)| lr:1.40e-05| loss_qfl:0.0731| loss_bbox:0.4218| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4181| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:20:47]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.715
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.873
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.704
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.771
+
+[NanoDet][06-11 18:20:47]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.2  | adl     | 97.7   | 67.9  |
+[NanoDet][06-11 18:20:47]INFO: Val_metrics: {'mAP': 0.715245263843049, 'AP_50': 0.9843057709302506, 'AP_75': 0.8734028315784915, 'AP_small': 0.0, 'AP_m': 0.7040485650022077, 'AP_l': 0.72806546696353}
+[NanoDet][06-11 18:21:04]INFO: Train|Epoch181/300|Iter7035(15)| lr:1.40e-05| loss_qfl:0.0796| loss_bbox:0.4589| loss_dfl:0.1318| aux_loss_qfl:0.0777| aux_loss_bbox:0.4576| aux_loss_dfl:0.1317| 
+[NanoDet][06-11 18:21:35]INFO: Train|Epoch182/300|Iter7070(11)| lr:1.40e-05| loss_qfl:0.0651| loss_bbox:0.4479| loss_dfl:0.1283| aux_loss_qfl:0.0648| aux_loss_bbox:0.4460| aux_loss_dfl:0.1286| 
+[NanoDet][06-11 18:22:06]INFO: Train|Epoch183/300|Iter7105(7)| lr:1.40e-05| loss_qfl:0.0680| loss_bbox:0.4478| loss_dfl:0.1251| aux_loss_qfl:0.0648| aux_loss_bbox:0.4458| aux_loss_dfl:0.1253| 
+[NanoDet][06-11 18:22:36]INFO: Train|Epoch184/300|Iter7140(3)| lr:1.40e-05| loss_qfl:0.0683| loss_bbox:0.4516| loss_dfl:0.1294| aux_loss_qfl:0.0631| aux_loss_bbox:0.4478| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 18:23:03]INFO: Train|Epoch184/300|Iter7175(38)| lr:1.40e-05| loss_qfl:0.0657| loss_bbox:0.4446| loss_dfl:0.1264| aux_loss_qfl:0.0687| aux_loss_bbox:0.4441| aux_loss_dfl:0.1263| 
+[NanoDet][06-11 18:23:34]INFO: Train|Epoch185/300|Iter7210(34)| lr:1.40e-05| loss_qfl:0.0688| loss_bbox:0.4446| loss_dfl:0.1270| aux_loss_qfl:0.0679| aux_loss_bbox:0.4458| aux_loss_dfl:0.1272| 
+[NanoDet][06-11 18:24:05]INFO: Train|Epoch186/300|Iter7245(30)| lr:1.40e-05| loss_qfl:0.0691| loss_bbox:0.4403| loss_dfl:0.1257| aux_loss_qfl:0.0635| aux_loss_bbox:0.4382| aux_loss_dfl:0.1254| 
+[NanoDet][06-11 18:24:36]INFO: Train|Epoch187/300|Iter7280(26)| lr:1.40e-05| loss_qfl:0.0750| loss_bbox:0.4450| loss_dfl:0.1319| aux_loss_qfl:0.0714| aux_loss_bbox:0.4395| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 18:25:07]INFO: Train|Epoch188/300|Iter7315(22)| lr:1.40e-05| loss_qfl:0.0606| loss_bbox:0.4212| loss_dfl:0.1271| aux_loss_qfl:0.0621| aux_loss_bbox:0.4209| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 18:25:38]INFO: Train|Epoch189/300|Iter7350(18)| lr:1.40e-05| loss_qfl:0.0809| loss_bbox:0.4403| loss_dfl:0.1274| aux_loss_qfl:0.0821| aux_loss_bbox:0.4367| aux_loss_dfl:0.1270| 
+[NanoDet][06-11 18:26:09]INFO: Train|Epoch190/300|Iter7385(14)| lr:1.40e-05| loss_qfl:0.0687| loss_bbox:0.4530| loss_dfl:0.1285| aux_loss_qfl:0.0683| aux_loss_bbox:0.4509| aux_loss_dfl:0.1282| 
+[NanoDet][06-11 18:26:31]INFO: Val|Epoch190/300|Iter7410(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4217| loss_dfl:0.1353| aux_loss_qfl:0.0754| aux_loss_bbox:0.4182| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:26:36]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.872
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.770
+
+[NanoDet][06-11 18:26:36]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 18:26:36]INFO: Val_metrics: {'mAP': 0.7141000796269592, 'AP_50': 0.9842618539460789, 'AP_75': 0.8717090093781359, 'AP_small': 0.0, 'AP_m': 0.7027420740777749, 'AP_l': 0.7278116037785028}
+[NanoDet][06-11 18:26:50]INFO: Train|Epoch191/300|Iter7420(10)| lr:1.40e-05| loss_qfl:0.0558| loss_bbox:0.4374| loss_dfl:0.1269| aux_loss_qfl:0.0553| aux_loss_bbox:0.4319| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 18:27:21]INFO: Train|Epoch192/300|Iter7455(6)| lr:1.40e-05| loss_qfl:0.0763| loss_bbox:0.4463| loss_dfl:0.1274| aux_loss_qfl:0.0744| aux_loss_bbox:0.4454| aux_loss_dfl:0.1274| 
+[NanoDet][06-11 18:27:52]INFO: Train|Epoch193/300|Iter7490(2)| lr:1.40e-05| loss_qfl:0.0663| loss_bbox:0.4439| loss_dfl:0.1308| aux_loss_qfl:0.0679| aux_loss_bbox:0.4425| aux_loss_dfl:0.1306| 
+[NanoDet][06-11 18:28:19]INFO: Train|Epoch193/300|Iter7525(37)| lr:1.40e-05| loss_qfl:0.0792| loss_bbox:0.4258| loss_dfl:0.1300| aux_loss_qfl:0.0793| aux_loss_bbox:0.4211| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 18:28:50]INFO: Train|Epoch194/300|Iter7560(33)| lr:1.40e-05| loss_qfl:0.0754| loss_bbox:0.4648| loss_dfl:0.1311| aux_loss_qfl:0.0715| aux_loss_bbox:0.4651| aux_loss_dfl:0.1320| 
+[NanoDet][06-11 18:29:21]INFO: Train|Epoch195/300|Iter7595(29)| lr:1.40e-05| loss_qfl:0.0925| loss_bbox:0.4395| loss_dfl:0.1291| aux_loss_qfl:0.0909| aux_loss_bbox:0.4351| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 18:29:52]INFO: Train|Epoch196/300|Iter7630(25)| lr:1.40e-05| loss_qfl:0.0970| loss_bbox:0.4682| loss_dfl:0.1290| aux_loss_qfl:0.0913| aux_loss_bbox:0.4620| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 18:30:23]INFO: Train|Epoch197/300|Iter7665(21)| lr:1.40e-05| loss_qfl:0.0545| loss_bbox:0.4305| loss_dfl:0.1287| aux_loss_qfl:0.0545| aux_loss_bbox:0.4268| aux_loss_dfl:0.1287| 
+[NanoDet][06-11 18:30:54]INFO: Train|Epoch198/300|Iter7700(17)| lr:1.40e-05| loss_qfl:0.0809| loss_bbox:0.4671| loss_dfl:0.1256| aux_loss_qfl:0.0830| aux_loss_bbox:0.4642| aux_loss_dfl:0.1248| 
+[NanoDet][06-11 18:31:25]INFO: Train|Epoch199/300|Iter7735(13)| lr:1.40e-05| loss_qfl:0.0664| loss_bbox:0.4345| loss_dfl:0.1304| aux_loss_qfl:0.0662| aux_loss_bbox:0.4334| aux_loss_dfl:0.1305| 
+[NanoDet][06-11 18:31:55]INFO: Train|Epoch200/300|Iter7770(9)| lr:1.40e-05| loss_qfl:0.0778| loss_bbox:0.4606| loss_dfl:0.1275| aux_loss_qfl:0.0752| aux_loss_bbox:0.4590| aux_loss_dfl:0.1276| 
+[NanoDet][06-11 18:32:21]INFO: Val|Epoch200/300|Iter7800(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4228| loss_dfl:0.1354| aux_loss_qfl:0.0753| aux_loss_bbox:0.4193| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 18:32:26]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.870
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:32:26]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 18:32:26]INFO: Val_metrics: {'mAP': 0.7139404516659722, 'AP_50': 0.9841809054702748, 'AP_75': 0.8697036732514826, 'AP_small': 0.0, 'AP_m': 0.7029820106805158, 'AP_l': 0.7265428195529813}
+[NanoDet][06-11 18:32:36]INFO: Train|Epoch201/300|Iter7805(5)| lr:1.40e-05| loss_qfl:0.0793| loss_bbox:0.4885| loss_dfl:0.1301| aux_loss_qfl:0.0791| aux_loss_bbox:0.4890| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 18:33:06]INFO: Train|Epoch202/300|Iter7840(1)| lr:1.40e-05| loss_qfl:0.0643| loss_bbox:0.4462| loss_dfl:0.1309| aux_loss_qfl:0.0625| aux_loss_bbox:0.4419| aux_loss_dfl:0.1307| 
+[NanoDet][06-11 18:33:33]INFO: Train|Epoch202/300|Iter7875(36)| lr:1.40e-05| loss_qfl:0.0737| loss_bbox:0.4261| loss_dfl:0.1297| aux_loss_qfl:0.0730| aux_loss_bbox:0.4203| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 18:34:04]INFO: Train|Epoch203/300|Iter7910(32)| lr:1.40e-05| loss_qfl:0.0808| loss_bbox:0.4637| loss_dfl:0.1267| aux_loss_qfl:0.0804| aux_loss_bbox:0.4603| aux_loss_dfl:0.1265| 
+[NanoDet][06-11 18:34:35]INFO: Train|Epoch204/300|Iter7945(28)| lr:1.40e-05| loss_qfl:0.0778| loss_bbox:0.4680| loss_dfl:0.1294| aux_loss_qfl:0.0756| aux_loss_bbox:0.4611| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 18:35:06]INFO: Train|Epoch205/300|Iter7980(24)| lr:1.40e-05| loss_qfl:0.0672| loss_bbox:0.4515| loss_dfl:0.1275| aux_loss_qfl:0.0651| aux_loss_bbox:0.4444| aux_loss_dfl:0.1274| 
+[NanoDet][06-11 18:35:37]INFO: Train|Epoch206/300|Iter8015(20)| lr:1.40e-05| loss_qfl:0.0644| loss_bbox:0.4363| loss_dfl:0.1278| aux_loss_qfl:0.0645| aux_loss_bbox:0.4339| aux_loss_dfl:0.1277| 
+[NanoDet][06-11 18:36:07]INFO: Train|Epoch207/300|Iter8050(16)| lr:1.40e-05| loss_qfl:0.0708| loss_bbox:0.4646| loss_dfl:0.1277| aux_loss_qfl:0.0682| aux_loss_bbox:0.4586| aux_loss_dfl:0.1274| 
+[NanoDet][06-11 18:36:38]INFO: Train|Epoch208/300|Iter8085(12)| lr:1.40e-05| loss_qfl:0.0730| loss_bbox:0.4521| loss_dfl:0.1282| aux_loss_qfl:0.0743| aux_loss_bbox:0.4480| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 18:37:09]INFO: Train|Epoch209/300|Iter8120(8)| lr:1.40e-05| loss_qfl:0.0660| loss_bbox:0.4597| loss_dfl:0.1285| aux_loss_qfl:0.0678| aux_loss_bbox:0.4608| aux_loss_dfl:0.1286| 
+[NanoDet][06-11 18:37:40]INFO: Train|Epoch210/300|Iter8155(4)| lr:1.40e-05| loss_qfl:0.0704| loss_bbox:0.4644| loss_dfl:0.1295| aux_loss_qfl:0.0715| aux_loss_bbox:0.4650| aux_loss_dfl:0.1293| 
+[NanoDet][06-11 18:38:09]INFO: Val|Epoch210/300|Iter8190(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4220| loss_dfl:0.1353| aux_loss_qfl:0.0754| aux_loss_bbox:0.4184| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:38:14]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.713
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.870
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:38:14]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.7  |
+[NanoDet][06-11 18:38:14]INFO: Val_metrics: {'mAP': 0.7134495326172301, 'AP_50': 0.9842353521445845, 'AP_75': 0.8699481063357868, 'AP_small': 0.0, 'AP_m': 0.7031592566498864, 'AP_l': 0.725997498338028}
+[NanoDet][06-11 18:38:19]INFO: Train|Epoch211/300|Iter8190(0)| lr:1.40e-05| loss_qfl:0.0669| loss_bbox:0.4374| loss_dfl:0.1287| aux_loss_qfl:0.0672| aux_loss_bbox:0.4344| aux_loss_dfl:0.1286| 
+[NanoDet][06-11 18:38:46]INFO: Train|Epoch211/300|Iter8225(35)| lr:1.40e-05| loss_qfl:0.0578| loss_bbox:0.4756| loss_dfl:0.1269| aux_loss_qfl:0.0594| aux_loss_bbox:0.4731| aux_loss_dfl:0.1273| 
+[NanoDet][06-11 18:39:17]INFO: Train|Epoch212/300|Iter8260(31)| lr:1.40e-05| loss_qfl:0.0936| loss_bbox:0.4384| loss_dfl:0.1255| aux_loss_qfl:0.0913| aux_loss_bbox:0.4343| aux_loss_dfl:0.1256| 
+[NanoDet][06-11 18:39:48]INFO: Train|Epoch213/300|Iter8295(27)| lr:1.40e-05| loss_qfl:0.0568| loss_bbox:0.4292| loss_dfl:0.1260| aux_loss_qfl:0.0583| aux_loss_bbox:0.4259| aux_loss_dfl:0.1259| 
+[NanoDet][06-11 18:40:19]INFO: Train|Epoch214/300|Iter8330(23)| lr:1.40e-05| loss_qfl:0.0794| loss_bbox:0.4649| loss_dfl:0.1332| aux_loss_qfl:0.0771| aux_loss_bbox:0.4546| aux_loss_dfl:0.1330| 
+[NanoDet][06-11 18:40:50]INFO: Train|Epoch215/300|Iter8365(19)| lr:1.40e-05| loss_qfl:0.0653| loss_bbox:0.4594| loss_dfl:0.1285| aux_loss_qfl:0.0685| aux_loss_bbox:0.4578| aux_loss_dfl:0.1283| 
+[NanoDet][06-11 18:41:21]INFO: Train|Epoch216/300|Iter8400(15)| lr:1.40e-05| loss_qfl:0.0685| loss_bbox:0.4314| loss_dfl:0.1293| aux_loss_qfl:0.0687| aux_loss_bbox:0.4253| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 18:41:52]INFO: Train|Epoch217/300|Iter8435(11)| lr:1.40e-05| loss_qfl:0.0804| loss_bbox:0.4390| loss_dfl:0.1302| aux_loss_qfl:0.0785| aux_loss_bbox:0.4342| aux_loss_dfl:0.1300| 
+[NanoDet][06-11 18:42:23]INFO: Train|Epoch218/300|Iter8470(7)| lr:1.40e-05| loss_qfl:0.0798| loss_bbox:0.4342| loss_dfl:0.1281| aux_loss_qfl:0.0795| aux_loss_bbox:0.4293| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 18:42:55]INFO: Train|Epoch219/300|Iter8505(3)| lr:1.40e-05| loss_qfl:0.0584| loss_bbox:0.4615| loss_dfl:0.1295| aux_loss_qfl:0.0604| aux_loss_bbox:0.4639| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 18:43:21]INFO: Train|Epoch219/300|Iter8540(38)| lr:1.40e-05| loss_qfl:0.1019| loss_bbox:0.4498| loss_dfl:0.1290| aux_loss_qfl:0.1067| aux_loss_bbox:0.4458| aux_loss_dfl:0.1288| 
+[NanoDet][06-11 18:43:52]INFO: Train|Epoch220/300|Iter8575(34)| lr:1.40e-05| loss_qfl:0.0916| loss_bbox:0.4489| loss_dfl:0.1294| aux_loss_qfl:0.0946| aux_loss_bbox:0.4485| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 18:43:59]INFO: Val|Epoch220/300|Iter8580(0)| lr:1.40e-05| loss_qfl:0.0733| loss_bbox:0.4225| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4188| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:44:05]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.872
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.704
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.773
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:44:05]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.9  |
+[NanoDet][06-11 18:44:05]INFO: Val_metrics: {'mAP': 0.7142695672436637, 'AP_50': 0.9842845393567128, 'AP_75': 0.8721405631483419, 'AP_small': 0.0, 'AP_m': 0.7041008047523689, 'AP_l': 0.726485951255503}
+[NanoDet][06-11 18:44:33]INFO: Train|Epoch221/300|Iter8610(30)| lr:1.40e-05| loss_qfl:0.0738| loss_bbox:0.4601| loss_dfl:0.1288| aux_loss_qfl:0.0743| aux_loss_bbox:0.4562| aux_loss_dfl:0.1288| 
+[NanoDet][06-11 18:45:04]INFO: Train|Epoch222/300|Iter8645(26)| lr:1.40e-05| loss_qfl:0.0616| loss_bbox:0.4591| loss_dfl:0.1298| aux_loss_qfl:0.0629| aux_loss_bbox:0.4590| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 18:45:36]INFO: Train|Epoch223/300|Iter8680(22)| lr:1.40e-05| loss_qfl:0.0745| loss_bbox:0.4285| loss_dfl:0.1284| aux_loss_qfl:0.0760| aux_loss_bbox:0.4287| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 18:46:07]INFO: Train|Epoch224/300|Iter8715(18)| lr:1.40e-05| loss_qfl:0.0902| loss_bbox:0.4517| loss_dfl:0.1282| aux_loss_qfl:0.0870| aux_loss_bbox:0.4507| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 18:46:38]INFO: Train|Epoch225/300|Iter8750(14)| lr:1.40e-05| loss_qfl:0.0607| loss_bbox:0.4433| loss_dfl:0.1257| aux_loss_qfl:0.0618| aux_loss_bbox:0.4389| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 18:47:09]INFO: Train|Epoch226/300|Iter8785(10)| lr:1.40e-05| loss_qfl:0.0755| loss_bbox:0.4691| loss_dfl:0.1336| aux_loss_qfl:0.0740| aux_loss_bbox:0.4669| aux_loss_dfl:0.1339| 
+[NanoDet][06-11 18:47:40]INFO: Train|Epoch227/300|Iter8820(6)| lr:1.40e-05| loss_qfl:0.0795| loss_bbox:0.4579| loss_dfl:0.1293| aux_loss_qfl:0.0770| aux_loss_bbox:0.4520| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 18:48:11]INFO: Train|Epoch228/300|Iter8855(2)| lr:1.40e-05| loss_qfl:0.0626| loss_bbox:0.4585| loss_dfl:0.1309| aux_loss_qfl:0.0633| aux_loss_bbox:0.4617| aux_loss_dfl:0.1306| 
+[NanoDet][06-11 18:48:37]INFO: Train|Epoch228/300|Iter8890(37)| lr:1.40e-05| loss_qfl:0.0841| loss_bbox:0.4642| loss_dfl:0.1301| aux_loss_qfl:0.0802| aux_loss_bbox:0.4595| aux_loss_dfl:0.1297| 
+[NanoDet][06-11 18:49:08]INFO: Train|Epoch229/300|Iter8925(33)| lr:1.40e-05| loss_qfl:0.0707| loss_bbox:0.4300| loss_dfl:0.1268| aux_loss_qfl:0.0699| aux_loss_bbox:0.4331| aux_loss_dfl:0.1264| 
+[NanoDet][06-11 18:49:39]INFO: Train|Epoch230/300|Iter8960(29)| lr:1.40e-05| loss_qfl:0.0699| loss_bbox:0.4430| loss_dfl:0.1296| aux_loss_qfl:0.0711| aux_loss_bbox:0.4382| aux_loss_dfl:0.1294| 
+[NanoDet][06-11 18:49:49]INFO: Val|Epoch230/300|Iter8970(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4225| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4186| aux_loss_dfl:0.1356| 
+[NanoDet][06-11 18:49:55]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.713
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:49:55]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.7  |
+[NanoDet][06-11 18:49:55]INFO: Val_metrics: {'mAP': 0.7133933745449227, 'AP_50': 0.9842691082263151, 'AP_75': 0.8693551805660787, 'AP_small': 0.0, 'AP_m': 0.7023630911552996, 'AP_l': 0.7263378378387008}
+[NanoDet][06-11 18:50:19]INFO: Train|Epoch231/300|Iter8995(25)| lr:1.40e-05| loss_qfl:0.0868| loss_bbox:0.4467| loss_dfl:0.1268| aux_loss_qfl:0.0833| aux_loss_bbox:0.4466| aux_loss_dfl:0.1267| 
+[NanoDet][06-11 18:50:50]INFO: Train|Epoch232/300|Iter9030(21)| lr:1.40e-05| loss_qfl:0.0642| loss_bbox:0.4498| loss_dfl:0.1295| aux_loss_qfl:0.0648| aux_loss_bbox:0.4495| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 18:51:21]INFO: Train|Epoch233/300|Iter9065(17)| lr:1.40e-05| loss_qfl:0.0737| loss_bbox:0.4438| loss_dfl:0.1273| aux_loss_qfl:0.0727| aux_loss_bbox:0.4384| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 18:51:52]INFO: Train|Epoch234/300|Iter9100(13)| lr:1.40e-05| loss_qfl:0.0720| loss_bbox:0.4528| loss_dfl:0.1304| aux_loss_qfl:0.0731| aux_loss_bbox:0.4522| aux_loss_dfl:0.1307| 
+[NanoDet][06-11 18:52:23]INFO: Train|Epoch235/300|Iter9135(9)| lr:1.40e-05| loss_qfl:0.0678| loss_bbox:0.4397| loss_dfl:0.1297| aux_loss_qfl:0.0690| aux_loss_bbox:0.4367| aux_loss_dfl:0.1295| 
+[NanoDet][06-11 18:52:54]INFO: Train|Epoch236/300|Iter9170(5)| lr:1.40e-05| loss_qfl:0.0614| loss_bbox:0.4540| loss_dfl:0.1318| aux_loss_qfl:0.0609| aux_loss_bbox:0.4524| aux_loss_dfl:0.1312| 
+[NanoDet][06-11 18:53:24]INFO: Train|Epoch237/300|Iter9205(1)| lr:1.40e-05| loss_qfl:0.0666| loss_bbox:0.4594| loss_dfl:0.1284| aux_loss_qfl:0.0669| aux_loss_bbox:0.4589| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 18:53:51]INFO: Train|Epoch237/300|Iter9240(36)| lr:1.40e-05| loss_qfl:0.0701| loss_bbox:0.4670| loss_dfl:0.1284| aux_loss_qfl:0.0694| aux_loss_bbox:0.4664| aux_loss_dfl:0.1280| 
+[NanoDet][06-11 18:54:22]INFO: Train|Epoch238/300|Iter9275(32)| lr:1.40e-05| loss_qfl:0.0728| loss_bbox:0.4328| loss_dfl:0.1309| aux_loss_qfl:0.0736| aux_loss_bbox:0.4327| aux_loss_dfl:0.1309| 
+[NanoDet][06-11 18:54:53]INFO: Train|Epoch239/300|Iter9310(28)| lr:1.40e-05| loss_qfl:0.0675| loss_bbox:0.4658| loss_dfl:0.1315| aux_loss_qfl:0.0661| aux_loss_bbox:0.4631| aux_loss_dfl:0.1317| 
+[NanoDet][06-11 18:55:24]INFO: Train|Epoch240/300|Iter9345(24)| lr:1.40e-05| loss_qfl:0.0639| loss_bbox:0.4459| loss_dfl:0.1290| aux_loss_qfl:0.0649| aux_loss_bbox:0.4460| aux_loss_dfl:0.1283| 
+[NanoDet][06-11 18:55:38]INFO: Val|Epoch240/300|Iter9360(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4219| loss_dfl:0.1353| aux_loss_qfl:0.0754| aux_loss_bbox:0.4182| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 18:55:43]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.870
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 18:55:43]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 18:55:43]INFO: Val_metrics: {'mAP': 0.7139581980787906, 'AP_50': 0.9843240568158306, 'AP_75': 0.8695647065696821, 'AP_small': 0.0, 'AP_m': 0.7023171640384156, 'AP_l': 0.7272515931138573}
+[NanoDet][06-11 18:56:04]INFO: Train|Epoch241/300|Iter9380(20)| lr:1.40e-05| loss_qfl:0.0593| loss_bbox:0.4407| loss_dfl:0.1292| aux_loss_qfl:0.0614| aux_loss_bbox:0.4400| aux_loss_dfl:0.1293| 
+[NanoDet][06-11 18:56:35]INFO: Train|Epoch242/300|Iter9415(16)| lr:1.40e-05| loss_qfl:0.0648| loss_bbox:0.4420| loss_dfl:0.1302| aux_loss_qfl:0.0636| aux_loss_bbox:0.4414| aux_loss_dfl:0.1300| 
+[NanoDet][06-11 18:57:06]INFO: Train|Epoch243/300|Iter9450(12)| lr:1.40e-05| loss_qfl:0.0764| loss_bbox:0.4486| loss_dfl:0.1302| aux_loss_qfl:0.0787| aux_loss_bbox:0.4455| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 18:57:37]INFO: Train|Epoch244/300|Iter9485(8)| lr:1.40e-05| loss_qfl:0.0790| loss_bbox:0.4479| loss_dfl:0.1315| aux_loss_qfl:0.0744| aux_loss_bbox:0.4438| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 18:58:08]INFO: Train|Epoch245/300|Iter9520(4)| lr:1.40e-05| loss_qfl:0.0645| loss_bbox:0.4495| loss_dfl:0.1279| aux_loss_qfl:0.0649| aux_loss_bbox:0.4464| aux_loss_dfl:0.1280| 
+[NanoDet][06-11 18:58:39]INFO: Train|Epoch246/300|Iter9555(0)| lr:1.40e-05| loss_qfl:0.0786| loss_bbox:0.4547| loss_dfl:0.1266| aux_loss_qfl:0.0809| aux_loss_bbox:0.4533| aux_loss_dfl:0.1268| 
+[NanoDet][06-11 18:59:05]INFO: Train|Epoch246/300|Iter9590(35)| lr:1.40e-05| loss_qfl:0.0793| loss_bbox:0.4464| loss_dfl:0.1276| aux_loss_qfl:0.0790| aux_loss_bbox:0.4446| aux_loss_dfl:0.1277| 
+[NanoDet][06-11 18:59:36]INFO: Train|Epoch247/300|Iter9625(31)| lr:1.40e-05| loss_qfl:0.0723| loss_bbox:0.4357| loss_dfl:0.1299| aux_loss_qfl:0.0744| aux_loss_bbox:0.4306| aux_loss_dfl:0.1298| 
+[NanoDet][06-11 19:00:08]INFO: Train|Epoch248/300|Iter9660(27)| lr:1.40e-05| loss_qfl:0.0697| loss_bbox:0.4453| loss_dfl:0.1273| aux_loss_qfl:0.0709| aux_loss_bbox:0.4495| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:00:39]INFO: Train|Epoch249/300|Iter9695(23)| lr:1.40e-05| loss_qfl:0.0690| loss_bbox:0.4532| loss_dfl:0.1306| aux_loss_qfl:0.0716| aux_loss_bbox:0.4547| aux_loss_dfl:0.1304| 
+[NanoDet][06-11 19:01:10]INFO: Train|Epoch250/300|Iter9730(19)| lr:1.40e-05| loss_qfl:0.0782| loss_bbox:0.4497| loss_dfl:0.1292| aux_loss_qfl:0.0778| aux_loss_bbox:0.4480| aux_loss_dfl:0.1291| 
+[NanoDet][06-11 19:01:28]INFO: Val|Epoch250/300|Iter9750(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4223| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4185| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:01:34]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.870
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.768
+
+[NanoDet][06-11 19:01:34]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 19:01:34]INFO: Val_metrics: {'mAP': 0.713623428866749, 'AP_50': 0.9842353464065885, 'AP_75': 0.8699716678600304, 'AP_small': 0.0, 'AP_m': 0.7028491493062631, 'AP_l': 0.7262398792348503}
+[NanoDet][06-11 19:01:51]INFO: Train|Epoch251/300|Iter9765(15)| lr:1.40e-05| loss_qfl:0.0634| loss_bbox:0.4645| loss_dfl:0.1323| aux_loss_qfl:0.0631| aux_loss_bbox:0.4629| aux_loss_dfl:0.1322| 
+[NanoDet][06-11 19:02:22]INFO: Train|Epoch252/300|Iter9800(11)| lr:1.40e-05| loss_qfl:0.0868| loss_bbox:0.4358| loss_dfl:0.1258| aux_loss_qfl:0.0862| aux_loss_bbox:0.4368| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 19:02:53]INFO: Train|Epoch253/300|Iter9835(7)| lr:1.40e-05| loss_qfl:0.0541| loss_bbox:0.4371| loss_dfl:0.1258| aux_loss_qfl:0.0568| aux_loss_bbox:0.4306| aux_loss_dfl:0.1256| 
+[NanoDet][06-11 19:03:24]INFO: Train|Epoch254/300|Iter9870(3)| lr:1.40e-05| loss_qfl:0.0689| loss_bbox:0.4519| loss_dfl:0.1294| aux_loss_qfl:0.0702| aux_loss_bbox:0.4494| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 19:03:50]INFO: Train|Epoch254/300|Iter9905(38)| lr:1.40e-05| loss_qfl:0.0638| loss_bbox:0.4488| loss_dfl:0.1283| aux_loss_qfl:0.0644| aux_loss_bbox:0.4470| aux_loss_dfl:0.1283| 
+[NanoDet][06-11 19:04:21]INFO: Train|Epoch255/300|Iter9940(34)| lr:1.40e-05| loss_qfl:0.0698| loss_bbox:0.4566| loss_dfl:0.1279| aux_loss_qfl:0.0732| aux_loss_bbox:0.4575| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:04:53]INFO: Train|Epoch256/300|Iter9975(30)| lr:1.40e-05| loss_qfl:0.0725| loss_bbox:0.4339| loss_dfl:0.1272| aux_loss_qfl:0.0734| aux_loss_bbox:0.4304| aux_loss_dfl:0.1272| 
+[NanoDet][06-11 19:05:24]INFO: Train|Epoch257/300|Iter10010(26)| lr:1.40e-05| loss_qfl:0.0563| loss_bbox:0.4533| loss_dfl:0.1328| aux_loss_qfl:0.0569| aux_loss_bbox:0.4482| aux_loss_dfl:0.1328| 
+[NanoDet][06-11 19:05:55]INFO: Train|Epoch258/300|Iter10045(22)| lr:1.40e-05| loss_qfl:0.0584| loss_bbox:0.4438| loss_dfl:0.1270| aux_loss_qfl:0.0586| aux_loss_bbox:0.4391| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 19:06:26]INFO: Train|Epoch259/300|Iter10080(18)| lr:1.40e-05| loss_qfl:0.0721| loss_bbox:0.4443| loss_dfl:0.1276| aux_loss_qfl:0.0740| aux_loss_bbox:0.4383| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:06:58]INFO: Train|Epoch260/300|Iter10115(14)| lr:1.40e-05| loss_qfl:0.0670| loss_bbox:0.4358| loss_dfl:0.1304| aux_loss_qfl:0.0678| aux_loss_bbox:0.4374| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 19:07:19]INFO: Val|Epoch260/300|Iter10140(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4225| loss_dfl:0.1353| aux_loss_qfl:0.0752| aux_loss_bbox:0.4186| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:07:25]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.869
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.726
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 19:07:25]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 19:07:25]INFO: Val_metrics: {'mAP': 0.7135010357284869, 'AP_50': 0.9843145952505498, 'AP_75': 0.8694419162155136, 'AP_small': 0.0, 'AP_m': 0.7024827174339713, 'AP_l': 0.7262501610294418}
+[NanoDet][06-11 19:07:38]INFO: Train|Epoch261/300|Iter10150(10)| lr:1.40e-05| loss_qfl:0.0640| loss_bbox:0.4361| loss_dfl:0.1310| aux_loss_qfl:0.0627| aux_loss_bbox:0.4310| aux_loss_dfl:0.1305| 
+[NanoDet][06-11 19:08:09]INFO: Train|Epoch262/300|Iter10185(6)| lr:1.40e-05| loss_qfl:0.0693| loss_bbox:0.4556| loss_dfl:0.1288| aux_loss_qfl:0.0645| aux_loss_bbox:0.4573| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 19:08:40]INFO: Train|Epoch263/300|Iter10220(2)| lr:1.40e-05| loss_qfl:0.0573| loss_bbox:0.4311| loss_dfl:0.1304| aux_loss_qfl:0.0591| aux_loss_bbox:0.4257| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 19:09:06]INFO: Train|Epoch263/300|Iter10255(37)| lr:1.40e-05| loss_qfl:0.0538| loss_bbox:0.4387| loss_dfl:0.1320| aux_loss_qfl:0.0574| aux_loss_bbox:0.4415| aux_loss_dfl:0.1320| 
+[NanoDet][06-11 19:09:38]INFO: Train|Epoch264/300|Iter10290(33)| lr:1.40e-05| loss_qfl:0.0748| loss_bbox:0.4341| loss_dfl:0.1316| aux_loss_qfl:0.0751| aux_loss_bbox:0.4325| aux_loss_dfl:0.1311| 
+[NanoDet][06-11 19:10:08]INFO: Train|Epoch265/300|Iter10325(29)| lr:1.40e-05| loss_qfl:0.0807| loss_bbox:0.4394| loss_dfl:0.1272| aux_loss_qfl:0.0786| aux_loss_bbox:0.4406| aux_loss_dfl:0.1271| 
+[NanoDet][06-11 19:10:40]INFO: Train|Epoch266/300|Iter10360(25)| lr:1.40e-05| loss_qfl:0.0663| loss_bbox:0.4704| loss_dfl:0.1270| aux_loss_qfl:0.0648| aux_loss_bbox:0.4705| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 19:11:11]INFO: Train|Epoch267/300|Iter10395(21)| lr:1.40e-05| loss_qfl:0.0714| loss_bbox:0.4634| loss_dfl:0.1315| aux_loss_qfl:0.0721| aux_loss_bbox:0.4615| aux_loss_dfl:0.1313| 
+[NanoDet][06-11 19:11:42]INFO: Train|Epoch268/300|Iter10430(17)| lr:1.40e-05| loss_qfl:0.0704| loss_bbox:0.4540| loss_dfl:0.1291| aux_loss_qfl:0.0718| aux_loss_bbox:0.4527| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 19:12:13]INFO: Train|Epoch269/300|Iter10465(13)| lr:1.40e-05| loss_qfl:0.0683| loss_bbox:0.4511| loss_dfl:0.1298| aux_loss_qfl:0.0733| aux_loss_bbox:0.4487| aux_loss_dfl:0.1296| 
+[NanoDet][06-11 19:12:44]INFO: Train|Epoch270/300|Iter10500(9)| lr:1.40e-05| loss_qfl:0.0824| loss_bbox:0.4589| loss_dfl:0.1300| aux_loss_qfl:0.0822| aux_loss_bbox:0.4589| aux_loss_dfl:0.1299| 
+[NanoDet][06-11 19:13:09]INFO: Val|Epoch270/300|Iter10530(0)| lr:1.40e-05| loss_qfl:0.0732| loss_bbox:0.4215| loss_dfl:0.1353| aux_loss_qfl:0.0751| aux_loss_bbox:0.4178| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:13:15]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.873
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.728
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.776
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 19:13:15]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 19:13:15]INFO: Val_metrics: {'mAP': 0.7139926298925401, 'AP_50': 0.98441777030146, 'AP_75': 0.8728538542845922, 'AP_small': 0.0, 'AP_m': 0.7029241650746871, 'AP_l': 0.7275540297888718}
+[NanoDet][06-11 19:13:24]INFO: Train|Epoch271/300|Iter10535(5)| lr:1.40e-05| loss_qfl:0.0843| loss_bbox:0.4351| loss_dfl:0.1282| aux_loss_qfl:0.0852| aux_loss_bbox:0.4329| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 19:13:55]INFO: Train|Epoch272/300|Iter10570(1)| lr:1.40e-05| loss_qfl:0.0642| loss_bbox:0.4465| loss_dfl:0.1295| aux_loss_qfl:0.0642| aux_loss_bbox:0.4423| aux_loss_dfl:0.1292| 
+[NanoDet][06-11 19:14:21]INFO: Train|Epoch272/300|Iter10605(36)| lr:1.40e-05| loss_qfl:0.0730| loss_bbox:0.4531| loss_dfl:0.1269| aux_loss_qfl:0.0723| aux_loss_bbox:0.4490| aux_loss_dfl:0.1266| 
+[NanoDet][06-11 19:14:53]INFO: Train|Epoch273/300|Iter10640(32)| lr:1.40e-05| loss_qfl:0.0755| loss_bbox:0.4475| loss_dfl:0.1279| aux_loss_qfl:0.0776| aux_loss_bbox:0.4491| aux_loss_dfl:0.1278| 
+[NanoDet][06-11 19:15:24]INFO: Train|Epoch274/300|Iter10675(28)| lr:1.40e-05| loss_qfl:0.0723| loss_bbox:0.4292| loss_dfl:0.1267| aux_loss_qfl:0.0708| aux_loss_bbox:0.4276| aux_loss_dfl:0.1261| 
+[NanoDet][06-11 19:15:55]INFO: Train|Epoch275/300|Iter10710(24)| lr:1.40e-05| loss_qfl:0.0737| loss_bbox:0.4343| loss_dfl:0.1288| aux_loss_qfl:0.0722| aux_loss_bbox:0.4304| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 19:16:27]INFO: Train|Epoch276/300|Iter10745(20)| lr:1.40e-05| loss_qfl:0.0537| loss_bbox:0.4567| loss_dfl:0.1316| aux_loss_qfl:0.0545| aux_loss_bbox:0.4541| aux_loss_dfl:0.1314| 
+[NanoDet][06-11 19:16:58]INFO: Train|Epoch277/300|Iter10780(16)| lr:1.40e-05| loss_qfl:0.0733| loss_bbox:0.4506| loss_dfl:0.1304| aux_loss_qfl:0.0732| aux_loss_bbox:0.4490| aux_loss_dfl:0.1303| 
+[NanoDet][06-11 19:17:28]INFO: Train|Epoch278/300|Iter10815(12)| lr:1.40e-05| loss_qfl:0.0691| loss_bbox:0.4430| loss_dfl:0.1292| aux_loss_qfl:0.0700| aux_loss_bbox:0.4416| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 19:18:00]INFO: Train|Epoch279/300|Iter10850(8)| lr:1.40e-05| loss_qfl:0.0700| loss_bbox:0.4471| loss_dfl:0.1281| aux_loss_qfl:0.0681| aux_loss_bbox:0.4441| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 19:18:31]INFO: Train|Epoch280/300|Iter10885(4)| lr:1.40e-05| loss_qfl:0.0601| loss_bbox:0.4438| loss_dfl:0.1263| aux_loss_qfl:0.0607| aux_loss_bbox:0.4391| aux_loss_dfl:0.1260| 
+[NanoDet][06-11 19:19:00]INFO: Val|Epoch280/300|Iter10920(0)| lr:1.40e-05| loss_qfl:0.0734| loss_bbox:0.4221| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4184| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:19:06]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.871
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 19:19:06]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 19:19:06]INFO: Val_metrics: {'mAP': 0.7135754738671787, 'AP_50': 0.9843293388608406, 'AP_75': 0.8708714720451225, 'AP_small': 0.0, 'AP_m': 0.7025092138437244, 'AP_l': 0.7273253767508175}
+[NanoDet][06-11 19:19:11]INFO: Train|Epoch281/300|Iter10920(0)| lr:1.40e-05| loss_qfl:0.0846| loss_bbox:0.4631| loss_dfl:0.1291| aux_loss_qfl:0.0846| aux_loss_bbox:0.4626| aux_loss_dfl:0.1286| 
+[NanoDet][06-11 19:19:38]INFO: Train|Epoch281/300|Iter10955(35)| lr:1.40e-05| loss_qfl:0.0709| loss_bbox:0.4677| loss_dfl:0.1323| aux_loss_qfl:0.0720| aux_loss_bbox:0.4671| aux_loss_dfl:0.1319| 
+[NanoDet][06-11 19:20:08]INFO: Train|Epoch282/300|Iter10990(31)| lr:1.40e-05| loss_qfl:0.0665| loss_bbox:0.4463| loss_dfl:0.1266| aux_loss_qfl:0.0679| aux_loss_bbox:0.4438| aux_loss_dfl:0.1261| 
+[NanoDet][06-11 19:20:39]INFO: Train|Epoch283/300|Iter11025(27)| lr:1.40e-05| loss_qfl:0.0632| loss_bbox:0.4394| loss_dfl:0.1281| aux_loss_qfl:0.0613| aux_loss_bbox:0.4438| aux_loss_dfl:0.1281| 
+[NanoDet][06-11 19:21:10]INFO: Train|Epoch284/300|Iter11060(23)| lr:1.40e-05| loss_qfl:0.0746| loss_bbox:0.4454| loss_dfl:0.1277| aux_loss_qfl:0.0728| aux_loss_bbox:0.4409| aux_loss_dfl:0.1276| 
+[NanoDet][06-11 19:21:41]INFO: Train|Epoch285/300|Iter11095(19)| lr:1.40e-05| loss_qfl:0.0599| loss_bbox:0.4335| loss_dfl:0.1272| aux_loss_qfl:0.0604| aux_loss_bbox:0.4355| aux_loss_dfl:0.1266| 
+[NanoDet][06-11 19:22:12]INFO: Train|Epoch286/300|Iter11130(15)| lr:1.40e-05| loss_qfl:0.0803| loss_bbox:0.4284| loss_dfl:0.1289| aux_loss_qfl:0.0808| aux_loss_bbox:0.4275| aux_loss_dfl:0.1289| 
+[NanoDet][06-11 19:22:43]INFO: Train|Epoch287/300|Iter11165(11)| lr:1.40e-05| loss_qfl:0.0629| loss_bbox:0.4456| loss_dfl:0.1291| aux_loss_qfl:0.0624| aux_loss_bbox:0.4462| aux_loss_dfl:0.1290| 
+[NanoDet][06-11 19:23:14]INFO: Train|Epoch288/300|Iter11200(7)| lr:1.40e-05| loss_qfl:0.0690| loss_bbox:0.4372| loss_dfl:0.1276| aux_loss_qfl:0.0683| aux_loss_bbox:0.4343| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:23:46]INFO: Train|Epoch289/300|Iter11235(3)| lr:1.40e-05| loss_qfl:0.0573| loss_bbox:0.4455| loss_dfl:0.1263| aux_loss_qfl:0.0583| aux_loss_bbox:0.4375| aux_loss_dfl:0.1257| 
+[NanoDet][06-11 19:24:12]INFO: Train|Epoch289/300|Iter11270(38)| lr:1.40e-05| loss_qfl:0.0572| loss_bbox:0.4493| loss_dfl:0.1280| aux_loss_qfl:0.0563| aux_loss_bbox:0.4533| aux_loss_dfl:0.1279| 
+[NanoDet][06-11 19:24:43]INFO: Train|Epoch290/300|Iter11305(34)| lr:1.40e-05| loss_qfl:0.0684| loss_bbox:0.4431| loss_dfl:0.1287| aux_loss_qfl:0.0692| aux_loss_bbox:0.4471| aux_loss_dfl:0.1288| 
+[NanoDet][06-11 19:24:50]INFO: Val|Epoch290/300|Iter11310(0)| lr:1.40e-05| loss_qfl:0.0733| loss_bbox:0.4220| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4183| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:24:55]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.871
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.702
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 19:24:55]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 74.9  | adl     | 97.7   | 67.8  |
+[NanoDet][06-11 19:24:55]INFO: Val_metrics: {'mAP': 0.7137126740689678, 'AP_50': 0.9843222581349237, 'AP_75': 0.8708942795603545, 'AP_small': 0.0, 'AP_m': 0.7019620542837449, 'AP_l': 0.7270999035123903}
+[NanoDet][06-11 19:25:23]INFO: Train|Epoch291/300|Iter11340(30)| lr:1.40e-05| loss_qfl:0.0656| loss_bbox:0.4519| loss_dfl:0.1319| aux_loss_qfl:0.0634| aux_loss_bbox:0.4467| aux_loss_dfl:0.1315| 
+[NanoDet][06-11 19:25:54]INFO: Train|Epoch292/300|Iter11375(26)| lr:1.40e-05| loss_qfl:0.0804| loss_bbox:0.4457| loss_dfl:0.1277| aux_loss_qfl:0.0812| aux_loss_bbox:0.4409| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:26:25]INFO: Train|Epoch293/300|Iter11410(22)| lr:1.40e-05| loss_qfl:0.0712| loss_bbox:0.4522| loss_dfl:0.1310| aux_loss_qfl:0.0713| aux_loss_bbox:0.4519| aux_loss_dfl:0.1311| 
+[NanoDet][06-11 19:26:56]INFO: Train|Epoch294/300|Iter11445(18)| lr:1.40e-05| loss_qfl:0.0771| loss_bbox:0.4614| loss_dfl:0.1297| aux_loss_qfl:0.0764| aux_loss_bbox:0.4537| aux_loss_dfl:0.1293| 
+[NanoDet][06-11 19:27:27]INFO: Train|Epoch295/300|Iter11480(14)| lr:1.40e-05| loss_qfl:0.0821| loss_bbox:0.4774| loss_dfl:0.1312| aux_loss_qfl:0.0861| aux_loss_bbox:0.4807| aux_loss_dfl:0.1315| 
+[NanoDet][06-11 19:27:58]INFO: Train|Epoch296/300|Iter11515(10)| lr:1.40e-05| loss_qfl:0.0924| loss_bbox:0.4513| loss_dfl:0.1273| aux_loss_qfl:0.0970| aux_loss_bbox:0.4505| aux_loss_dfl:0.1275| 
+[NanoDet][06-11 19:28:29]INFO: Train|Epoch297/300|Iter11550(6)| lr:1.40e-05| loss_qfl:0.0660| loss_bbox:0.4405| loss_dfl:0.1272| aux_loss_qfl:0.0639| aux_loss_bbox:0.4354| aux_loss_dfl:0.1269| 
+[NanoDet][06-11 19:29:00]INFO: Train|Epoch298/300|Iter11585(2)| lr:1.40e-05| loss_qfl:0.0772| loss_bbox:0.4614| loss_dfl:0.1266| aux_loss_qfl:0.0755| aux_loss_bbox:0.4620| aux_loss_dfl:0.1266| 
+[NanoDet][06-11 19:29:26]INFO: Train|Epoch298/300|Iter11620(37)| lr:1.40e-05| loss_qfl:0.0736| loss_bbox:0.4750| loss_dfl:0.1319| aux_loss_qfl:0.0724| aux_loss_bbox:0.4688| aux_loss_dfl:0.1313| 
+[NanoDet][06-11 19:29:57]INFO: Train|Epoch299/300|Iter11655(33)| lr:1.40e-05| loss_qfl:0.0649| loss_bbox:0.4338| loss_dfl:0.1304| aux_loss_qfl:0.0674| aux_loss_bbox:0.4326| aux_loss_dfl:0.1302| 
+[NanoDet][06-11 19:30:28]INFO: Train|Epoch300/300|Iter11690(29)| lr:1.40e-05| loss_qfl:0.0715| loss_bbox:0.4607| loss_dfl:0.1287| aux_loss_qfl:0.0728| aux_loss_bbox:0.4575| aux_loss_dfl:0.1285| 
+[NanoDet][06-11 19:30:38]INFO: Val|Epoch300/300|Iter11700(0)| lr:1.40e-05| loss_qfl:0.0733| loss_bbox:0.4219| loss_dfl:0.1353| aux_loss_qfl:0.0753| aux_loss_bbox:0.4182| aux_loss_dfl:0.1355| 
+[NanoDet][06-11 19:30:44]INFO: 
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.714
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.984
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.871
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.703
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.727
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.771
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.772
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.000
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.775
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.769
+
+[NanoDet][06-11 19:30:44]INFO: 
+| class   | AP50   | mAP   | class   | AP50   | mAP   |
+|:--------|:-------|:------|:--------|:-------|:------|
+| fall    | 99.2   | 75.0  | adl     | 97.7   | 67.9  |
+[NanoDet][06-11 19:30:44]INFO: Val_metrics: {'mAP': 0.7141125535557886, 'AP_50': 0.9842715930334823, 'AP_75': 0.8709666363570501, 'AP_small': 0.0, 'AP_m': 0.7028931836832345, 'AP_l': 0.7274688552274501}

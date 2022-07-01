@@ -1,0 +1,341 @@
+# depslib dependency file v1.0
+1656670421 source:/home/pi/NanoDet-Plus/src/main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<stdlib.h>
+	<float.h>
+	<stdio.h>
+	<vector>
+	<net.h>
+	"NanoDetPlus.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/core.hpp
+	"opencv2/core.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+	"opencv2/core/ovx.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cvdef.h
+	"opencv2/core/version.hpp"
+	"cvconfig.h"
+	<limits>
+	<limits.h>
+	"opencv2/core/hal/interface.h"
+	"cv_cpu_dispatch.h"
+	<intrin.h>
+	<array>
+	<cstdint>
+	<stdint.h>
+	<stdint.h>
+	"opencv2/core/fast_math.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/version.hpp
+
+1640404407 /usr/local/include/opencv4/opencv2/core/hal/interface.h
+	<cstddef>
+	<stddef.h>
+	<stdbool.h>
+	<cstdint>
+	<stdint.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cv_cpu_dispatch.h
+	"cv_cpu_config.h"
+	"cv_cpu_helper.h"
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	<immintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	<arm_neon.h>
+	<arm_neon.h>
+	<riscv-vector.h>
+	<arm_neon.h>
+	<altivec.h>
+	"hal/msa_macros.h"
+	<wasm_simd128.h>
+	<riscv_vector.h>
+	<emmintrin.h>
+	<Intrin.h>
+	<arm_neon.h>
+	<arm_neon.h>
+	<altivec.h>
+	<immintrin.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cv_cpu_helper.h
+
+1640404407 /usr/local/include/opencv4/opencv2/core/hal/msa_macros.h
+	"msa.h"
+	<stdint.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/fast_math.hpp
+	"opencv2/core/cvdef.h"
+	<cmath>
+	<fastmath.h>
+	<math.h>
+	<emmintrin.h>
+	<altivec.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/base.hpp
+	"opencv2/opencv_modules.hpp"
+	<climits>
+	<algorithm>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/neon_utils.hpp"
+	"opencv2/core/vsx_utils.hpp"
+	"opencv2/core/check.hpp"
+
+1654856174 /usr/local/include/opencv4/opencv2/opencv_modules.hpp
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"cvstd_wrapper.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cvstd_wrapper.hpp
+	"opencv2/core/cvdef.h"
+	<string>
+	<memory>
+	<type_traits>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/neon_utils.hpp
+	"opencv2/core/cvdef.h"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/vsx_utils.hpp
+	"opencv2/core/cvdef.h"
+	<assert.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/check.hpp
+	<opencv2/core/base.hpp>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/traits.hpp
+	"opencv2/core/cvdef.h"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/saturate.hpp"
+	<initializer_list>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/saturate.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/fast_math.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	<limits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	<type_traits>
+	"opencv2/core/mat.inl.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/bufferpool.hpp
+
+1640404407 /usr/local/include/opencv4/opencv2/core/mat.inl.hpp
+
+1640404407 /usr/local/include/opencv4/opencv2/core/persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core.hpp"
+	<time.h>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/operations.hpp
+	<cstdio>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/cvstd.inl.hpp
+	<complex>
+	<ostream>
+	<sstream>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/utility.hpp
+	"opencv2/core.hpp"
+	<ostream>
+	<functional>
+	<mutex>
+	"opencv2/core/utils/instrumentation.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/utils/instrumentation.hpp
+	<opencv2/core/utility.hpp>
+	<opencv2/core/utils/tls.hpp>
+
+1640404407 /usr/local/include/opencv4/opencv2/core/utils/tls.hpp
+
+1640404407 /usr/local/include/opencv4/opencv2/core/optim.hpp
+	"opencv2/core.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/core/ovx.hpp
+	"cvdef.h"
+
+1640404407 /usr/local/include/opencv4/opencv2/highgui/highgui.hpp
+	"opencv2/highgui.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/imgcodecs.hpp
+	"opencv2/core.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/videoio.hpp
+	"opencv2/core.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/imgproc/imgproc.hpp
+	"opencv2/imgproc.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/imgproc.hpp
+	"opencv2/core.hpp"
+	"./imgproc/segmentation.hpp"
+
+1640404407 /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
+	"opencv2/imgproc.hpp"
+
+1653835756 /usr/local/include/ncnn/net.h
+	"blob.h"
+	"layer.h"
+	"mat.h"
+	"option.h"
+	"platform.h"
+	<android/asset_manager.h>
+
+1653835756 /usr/local/include/ncnn/blob.h
+	"mat.h"
+	"platform.h"
+
+1653835756 /usr/local/include/ncnn/mat.h
+	<stdlib.h>
+	<string.h>
+	<arm_neon.h>
+	<emmintrin.h>
+	<immintrin.h>
+	<msa.h>
+	"layer/riscv/riscv_v_071_fix.h"
+	<riscv_vector.h>
+	"cpu.h"
+	"allocator.h"
+	"option.h"
+	"platform.h"
+	<vulkan/vulkan.h>
+	<android/bitmap.h>
+	<jni.h>
+
+1653835756 /usr/local/include/ncnn/cpu.h
+	<stddef.h>
+	<sched.h>
+	"platform.h"
+
+1653835756 /usr/local/include/ncnn/platform.h
+	"ncnn_export.h"
+	<windows.h>
+	<process.h>
+	<pthread.h>
+	"simplestl.h"
+	<algorithm>
+	<list>
+	<vector>
+	<string>
+	<android/log.h>
+	<stdio.h>
+
+1653835756 /usr/local/include/ncnn/ncnn_export.h
+
+1653835756 /usr/local/include/ncnn/simplestl.h
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<new>
+
+1653835756 /usr/local/include/ncnn/allocator.h
+	<windows.h>
+	"platform.h"
+	<stdlib.h>
+	<vulkan/vulkan.h>
+	<android/hardware_buffer.h>
+
+1653835756 /usr/local/include/ncnn/option.h
+	"platform.h"
+
+1653835756 /usr/local/include/ncnn/layer.h
+	"mat.h"
+	"modelbin.h"
+	"option.h"
+	"paramdict.h"
+	"platform.h"
+	<math.h>
+	"command.h"
+	"pipeline.h"
+	<vulkan/vulkan.h>
+
+1653835756 /usr/local/include/ncnn/modelbin.h
+	"mat.h"
+
+1653835756 /usr/local/include/ncnn/paramdict.h
+	"mat.h"
+
+1653835756 /usr/local/include/ncnn/command.h
+	"platform.h"
+	"mat.h"
+	<vulkan/vulkan.h>
+
+1653835756 /usr/local/include/ncnn/pipeline.h
+	"mat.h"
+	"platform.h"
+	"gpu.h"
+	<vulkan/vulkan.h>
+
+1653835756 /usr/local/include/ncnn/gpu.h
+	"platform.h"
+	"mat.h"
+	<vulkan/vulkan.h>
+	"vulkan_header_fix.h"
+
+1653835756 /usr/local/include/ncnn/vulkan_header_fix.h
+	<vulkan/vulkan.h>
+
+1656670511 /home/pi/NanoDet-Plus/include/NanoDetPlus.h
+	<opencv2/core/core.hpp>
+	<net.h>
+
+1656670088 source:/home/pi/NanoDet-Plus/src/NanoDetPlus.cpp
+	"NanoDetPlus.h"
+
