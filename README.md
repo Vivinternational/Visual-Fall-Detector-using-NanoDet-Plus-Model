@@ -11,7 +11,7 @@ This repository is created as part of the Master Thesis to obtain the academic d
 ****
 # Content
 
-The repository contains the deep learning models for fall detection built with the use of the NanoDet-Plus model provided by Lyu on the following GitHub site: https://github.com/RangiLyu/nanodet. 
+The repository contains the deep learning models for fall detection built with the use of the NanoDet-Plus model provided by Lyu on the following GitHub site: https://github.com/RangiLyu/nanodet. For the training the ImVia Fall dataset was taken from the following site: https://imvia.u-bourgogne.fr/en/database/fall-detection-dataset-2.html and prepared to meet the requirements for the MS-COCO image format.
 
 Furthermore, the folder thesis contains the German questionnaire of a user acceptance test of the implementation of a mobile robot for fall detection along with the answers of 95 participants in a CSV file as well as an English evaluation provided in PowerBI and PDF. The folder also includes a checklist for the reproducibility of Data Science studies compiled for the thesis.
 
@@ -35,9 +35,9 @@ In addition, it contains the onnx_nodes_fix.py file for the conversion of the mo
 
 The configuration folder contains the information about the software and dependencies of the GoogleColab setup and the YAML configuration files for each model. Moreover, the hard- and software configurations of the Raspberry Pi are stated in a second subfolder. For reproduction, the folder names in the YAML files have to be adjusted according to the settings made in the Jupyter Notebook "VideoConverter".
 
-The evaluations of the models and implementation with the corresponding metrics can be found in the evaluation folder. In addition, the folder contains the log files of the training sessions, which show the metrics in steps of 10 training epochs. A summary of the metrics is provided in the following chart:
+The evaluations of the models and implementation with the corresponding metrics can be found in the evaluation folder. In addition, the folder contains the log files of the training sessions, which show the metrics in steps of 10 training epochs. A summary of the metrics is provided in the following table:
 
-## Overview results models
+## Overview model results
 <img src="notebooks/pictures/OverviewResultsModels.png" />
 
 The implementation folder contains the C++ files for the implementation of the models on the Raspberry Pi in the ncnn framework as well as a sample release of the nanodet-plus-m_320_AdamW_ShuffleNetV2-05x_fall model (nanodet-opt.param & nanodet-opt.bin) and a fall video from the training and the testing dataset. The files originally taken from the nanodet GitHub site were adjusted with the help of Q-engineering who offer a very good instruction site for implementation of machine learning models on Raspberry and Jetson Nano (https://qengineering.eu/). Their GitHub repository for the NanoDet-Plus model can be found at this site: https://github.com/Qengineering/NanoDetPlus-ncnn-Raspberry-Pi-4. Please note, however, that the files differ from the files provided in this GitHub repository since they were adjusted to meet the requirements of this project.
