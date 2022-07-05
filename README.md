@@ -15,6 +15,8 @@ The repository contains the deep learning models for fall detection built with t
 
 Furthermore, the folder thesis contains the German questionnaire of a user acceptance test of the implementation of a mobile robot for fall detection along with the answers of 95 participants in a CSV file and an English evaluation provided in PowerBI and PDF. The folder also includes a checklist for the reproducibility of Data Science studies compiled for the thesis.
 
+The fall data folder holds the manually corrected annotation files of the fall videos from ImViA for training.
+
 In the trained models folder, 6 different models are available for 4 different frameworks: ncnn, ONNX, PyTorch and Tensorflow Lite. The six different models are divided according to the ShuffleNetV2 1.0x and ShuffleNetV2 0.5x backbone used in training. Both variants were trained with the AdamW optimizer and the SGD optimizer. The models optimized with the SGD were also trained with other training data that does not classify the fall as such, but rather the lying of a person. These models are identified by the addition "_lie" instead of "_fall" in the name:
 
 *  nanodet-plus-m_320_AdamW_ShuffleNetV2-1x_fall
