@@ -13,7 +13,7 @@ This repository is created as part of the Master Thesis to obtain the academic d
 
 The repository contains the deep learning models for fall detection built with the use of the NanoDet-Plus model provided by Lyu on the following GitHub site: https://github.com/RangiLyu/nanodet. For the training the ImViA Fall dataset was taken from the following site: https://imvia.u-bourgogne.fr/en/database/fall-detection-dataset-2.html and prepared to meet the requirements for the MS-COCO image format.
 
-Furthermore, the folder thesis contains the German questionnaire of a user acceptance test of the implementation of a mobile robot for fall detection along with the answers of 95 participants in a CSV file and an English evaluation provided in PowerBI and PDF. The folder also includes a checklist for the reproducibility of Data Science studies compiled for the thesis.
+Furthermore, the folder thesis contains the German questionnaire of a user acceptance test of the implementation of a mobile robot for fall detection along with the answers of 95 participants in a CSV file and an English evaluation provided in PowerBI and PDF. The folder also includes a checklist for the reproducibility of Data Science studies compiled for the thesis. The thesis itself will be added after submission.
 
 The fall data folder holds the manually corrected annotation files of the fall videos from ImViA for training.
 
